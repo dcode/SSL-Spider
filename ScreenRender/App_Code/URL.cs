@@ -13,7 +13,13 @@ public class URL
     public string url { get; set; }
 
     [JsonProperty("e")]
-    public DateTime expiration { get; set; }    
+    public DateTime expiration { get; set; }
+
+    [JsonProperty("s")]
+    public string grade { get; set; }
+
+    [JsonProperty("sha1")]
+    public Boolean sha1Signature { get; set; }
 }
 
 public class URLCollection
