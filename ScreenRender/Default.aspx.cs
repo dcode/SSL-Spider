@@ -19,6 +19,7 @@ public partial class _Default : Page
 
    protected void btnFind_Click(object sender, EventArgs e)
     {
+        gv1.CurrentPageIndex = 0;
         SetData();
         gv1.DataSource = finalCollection;
         gv1.DataBind();
@@ -38,7 +39,7 @@ public partial class _Default : Page
     {
         if (txtToDate.Text.Length > 0 && txtFromDate.Text.Length > 0)
         {
-            string json = File.ReadAllText(HttpContext.Current.Server.MapPath(@"outcopy.json"));
+            string json = File.ReadAllText(HttpContext.Current.Server.MapPath(@"result.json"));
             URLCollection resultCollection = JsonConvert.DeserializeObject<URLCollection>(json);
             finalCollection = resultCollection.urls.Where<URL>(i => i.expiration >= Convert.ToDateTime(txtFromDate.Text).Date &&
             i.expiration <= Convert.ToDateTime(txtToDate.Text).Date).ToList<URL>();
