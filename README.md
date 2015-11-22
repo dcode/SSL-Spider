@@ -4,8 +4,10 @@ Step 1
 --------
 python ssl-audit.py top-1m.csv 1>result.csv 2>error.txt
 
-Input File - top-1m.csv
+Input File - top-1m.csv (http://s3.amazonaws.com/alexa-static/top-1m.csv.zip)
+
 Output File- result.csv
+
 Error report- error.txt
 
 default certificate: dummycert.pem (can be found in attached repository)
