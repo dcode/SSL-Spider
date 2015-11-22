@@ -1,0 +1,3356 @@
+url  google.com
+	 connected
+1003
+url: google.com, expires in : 80
+url  facebook.com
+	 connected
+2324
+url: facebook.com, expires in : 39
+url  youtube.com
+	 connected
+1003
+url: youtube.com, expires in : 80
+url  baidu.com
+	 connected
+2178
+url: baidu.com, expires in : 147
+url  yahoo.com
+	 connected
+2178
+url: yahoo.com, expires in : 709
+url  amazon.com
+	 connected
+2900
+url: amazon.com, expires in : 405
+url  wikipedia.org
+	 connected
+3012
+url: wikipedia.org, expires in : 455
+url  qq.com
+	 connected
+2372
+url: qq.com, expires in : 398
+url  twitter.com
+	 connected
+2900
+url: twitter.com, expires in : 170
+url  taobao.com
+	 connected
+2178
+url: taobao.com, expires in : 203
+url  google.co.in
+	 connected
+1003
+url: google.co.in, expires in : 80
+url  live.com
+exception for live.com : [Errno 61] Connection refused
+url  sina.com.cn
+exception for sina.com.cn : timed out
+url  linkedin.com
+	 connected
+2663
+url: linkedin.com, expires in : 404
+url  yahoo.co.jp
+exception for yahoo.co.jp : timed out
+url  weibo.com
+	 connected
+2178
+url: weibo.com, expires in : 627
+url  bing.com
+	 connected
+897
+url: bing.com, expires in : 703
+url  google.co.jp
+	 connected
+1003
+url: google.co.jp, expires in : 80
+url  ebay.com
+	 connected
+2178
+url: ebay.com, expires in : 672
+url  yandex.ru
+	 connected
+1306
+url: yandex.ru, expires in : 39
+url  vk.com
+	 connected
+6794
+url: vk.com, expires in : 1029
+url  tmall.com
+	 connected
+2334
+url: tmall.com, expires in : 34
+url  hao123.com
+exception for hao123.com : timed out
+url  instagram.com
+	 connected
+2324
+url: instagram.com, expires in : 39
+url  google.de
+	 connected
+1003
+url: google.de, expires in : 80
+url  msn.com
+	 connected
+758
+url: msn.com, expires in : 574
+url  amazon.co.jp
+	 connected
+2900
+url: amazon.co.jp, expires in : 404
+url  t.co
+	 connected
+1539
+url: t.co, expires in : 197
+url  google.co.uk
+	 connected
+1003
+url: google.co.uk, expires in : 80
+url  pinterest.com
+	 connected
+4718
+url: pinterest.com, expires in : 353
+url  mail.ru
+	 connected
+2372
+url: mail.ru, expires in : 264
+url  onclickads.net
+	 connected
+2372
+url: onclickads.net, expires in : 261
+url  google.fr
+	 connected
+1003
+url: google.fr, expires in : 80
+url  reddit.com
+	 connected
+2663
+url: reddit.com, expires in : 1003
+url  wordpress.com
+	 connected
+5668
+url: wordpress.com, expires in : 610
+url  google.ru
+	 connected
+1003
+url: google.ru, expires in : 80
+url  blogspot.com
+	 connected
+1003
+url: blogspot.com, expires in : 80
+url  ask.com
+exception for ask.com : [Errno 61] Connection refused
+url  google.com.br
+	 connected
+1003
+url: google.com.br, expires in : 80
+url  paypal.com
+	 connected
+4718
+url: paypal.com, expires in : 390
+url  aliexpress.com
+exception for aliexpress.com : timed out
+url  tumblr.com
+	 connected
+2372
+url: tumblr.com, expires in : 140
+url  sohu.com
+	 connected
+2178
+url: sohu.com, expires in : 65
+url  apple.com
+	 connected
+2372
+url: apple.com, expires in : 358
+url  imgur.com
+	 connected
+2324
+url: imgur.com, expires in : 39
+url  microsoft.com
+	 connected
+897
+url: microsoft.com, expires in : 584
+url  xvideos.com
+exception for xvideos.com : timed out
+url  google.it
+	 connected
+1003
+url: google.it, expires in : 80
+url  google.es
+	 connected
+1003
+url: google.es, expires in : 80
+url  imdb.com
+exception for imdb.com : [Errno 61] Connection refused
+url  netflix.com
+	 connected
+2900
+url: netflix.com, expires in : 508
+url  amazon.de
+	 connected
+2900
+url: amazon.de, expires in : 404
+url  fc2.com
+exception for fc2.com : [Errno 61] Connection refused
+url  alibaba.com
+exception for alibaba.com : timed out
+url  360.cn
+exception for 360.cn : timed out
+url  gmw.cn
+exception for gmw.cn : timed out
+url  stackoverflow.com
+	 connected
+5056
+url: stackoverflow.com, expires in : 338
+url  go.com
+	 connected
+3228
+url: go.com, expires in : 335
+url  ok.ru
+	 connected
+2372
+url: ok.ru, expires in : 852
+url  google.ca
+	 connected
+1003
+url: google.ca, expires in : 80
+url  google.com.mx
+	 connected
+1003
+url: google.com.mx, expires in : 80
+url  amazon.co.uk
+	 connected
+2900
+url: amazon.co.uk, expires in : 404
+url  google.com.hk
+	 connected
+1003
+url: google.com.hk, expires in : 80
+url  pornhub.com
+	 connected
+2324
+url: pornhub.com, expires in : 134
+url  amazon.in
+	 connected
+2900
+url: amazon.in, expires in : 405
+url  tianya.cn
+exception for tianya.cn : timed out
+url  rakuten.co.jp
+exception for rakuten.co.jp : timed out
+url  naver.com
+exception for naver.com : [Errno 61] Connection refused
+url  diply.com
+	 connected
+995
+url: diply.com, expires in : 210
+url  craigslist.org
+	 connected
+2739
+url: craigslist.org, expires in : 1052
+url  blogger.com
+	 connected
+1003
+url: blogger.com, expires in : 80
+url  google.com.tr
+	 connected
+1003
+url: google.com.tr, expires in : 80
+url  xhamster.com
+	 connected
+1651
+url: xhamster.com, expires in : 247
+url  cnn.com
+exception for cnn.com : [Errno 61] Connection refused
+url  xinhuanet.com
+exception for xinhuanet.com : timed out
+url  espn.go.com
+	 connected
+1480
+url: espn.go.com, expires in : 184
+url  outbrain.com
+	 connected
+1866
+url: outbrain.com, expires in : 393
+url  jd.com
+exception for jd.com : [Errno 61] Connection refused
+url  soso.com
+exception for soso.com : timed out
+url  nicovideo.jp
+exception for nicovideo.jp : timed out
+url  adnetworkperformance.com
+	 connected
+2372
+url: adnetworkperformance.com, expires in : 222
+url  googleusercontent.com
+exception for googleusercontent.com : [Errno 8] nodename nor servname provided, or not known
+url  google.co.id
+	 connected
+1003
+url: google.co.id, expires in : 80
+url  google.co.kr
+	 connected
+1003
+url: google.co.kr, expires in : 80
+url  flipkart.com
+	 connected
+6794
+url: flipkart.com, expires in : 743
+url  bongacams.com
+	 connected
+1651
+url: bongacams.com, expires in : 175
+url  dropbox.com
+	 connected
+4718
+url: dropbox.com, expires in : 786
+url  bbc.co.uk
+	 connected
+3012
+url: bbc.co.uk, expires in : 301
+url  popads.net
+	 connected
+1651
+url: popads.net, expires in : 1439
+url  github.com
+	 connected
+4718
+url: github.com, expires in : 142
+url  cntv.cn
+	 connected
+Error: Certificate has expired!
+ssl error for cntv.cn [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  google.pl
+	 connected
+1003
+url: google.pl, expires in : 80
+url  google.com.au
+	 connected
+1003
+url: google.com.au, expires in : 80
+url  ebay.de
+	 connected
+4637
+url: ebay.de, expires in : 672
+url  pixnet.net
+exception for pixnet.net : [Errno 61] Connection refused
+url  kat.cr
+	 connected
+1651
+url: kat.cr, expires in : 154
+url  ebay.co.uk
+	 connected
+4637
+url: ebay.co.uk, expires in : 672
+url  nytimes.com
+	 connected
+1651
+url: nytimes.com, expires in : 911
+url  terraclicks.com
+	 connected
+2372
+url: terraclicks.com, expires in : 153
+url  bbc.com
+	 connected
+3012
+url: bbc.com, expires in : 301
+url  alipay.com
+exception for alipay.com : timed out
+url  directrev.com
+exception for directrev.com : [Errno 61] Connection refused
+url  adobe.com
+	 connected
+2178
+url: adobe.com, expires in : 684
+url  sogou.com
+	 connected
+2178
+url: sogou.com, expires in : 217
+url  dailymotion.com
+	 connected
+4718
+url: dailymotion.com, expires in : 1049
+url  tradeadexchange.com
+	 connected
+2372
+url: tradeadexchange.com, expires in : 588
+url  163.com
+	 connected
+1003
+url: 163.com, expires in : 770
+url  amazon.cn
+	 connected
+2900
+url: amazon.cn, expires in : 404
+url  wikia.com
+	 connected
+3012
+url: wikia.com, expires in : 67
+url  livedoor.jp
+exception for livedoor.jp : [Errno 61] Connection refused
+url  coccoc.com
+	 connected
+1003
+url: coccoc.com, expires in : 488
+url  dailymail.co.uk
+exception for dailymail.co.uk : [Errno 61] Connection refused
+url  china.com
+exception for china.com : timed out
+url  indiatimes.com
+exception for indiatimes.com : timed out
+url  google.com.tw
+	 connected
+1003
+url: google.com.tw, expires in : 80
+url  office.com
+	 connected
+758
+url: office.com, expires in : 347
+url  booking.com
+	 connected
+2663
+url: booking.com, expires in : 129
+url  dmm.co.jp
+exception for dmm.co.jp : timed out
+url  xnxx.com
+exception for xnxx.com : timed out
+url  chase.com
+	 connected
+2900
+url: chase.com, expires in : 270
+url  google.com.eg
+	 connected
+1003
+url: google.com.eg, expires in : 80
+url  huffingtonpost.com
+exception for huffingtonpost.com : [Errno 61] Connection refused
+url  youku.com
+exception for youku.com : [Errno 61] Connection refused
+url  buzzfeed.com
+exception for buzzfeed.com : [Errno 61] Connection refused
+url  walmart.com
+	 connected
+2178
+url: walmart.com, expires in : 565
+url  google.com.sa
+	 connected
+1003
+url: google.com.sa, expires in : 80
+url  detail.tmall.com
+	 connected
+4450
+url: detail.tmall.com, expires in : 34
+url  china.com.cn
+exception for china.com.cn : timed out
+url  microsoftonline.com
+exception for microsoftonline.com : timed out
+url  uol.com.br
+exception for uol.com.br : timed out
+url  google.com.ar
+	 connected
+1003
+url: google.com.ar, expires in : 80
+url  amazonaws.com
+exception for amazonaws.com : [Errno 61] Connection refused
+url  whatsapp.com
+	 connected
+2663
+url: whatsapp.com, expires in : 257
+url  amazon.fr
+	 connected
+2900
+url: amazon.fr, expires in : 405
+url  ameblo.jp
+exception for ameblo.jp : timed out
+url  snapdeal.com
+	 connected
+ssl error for snapdeal.com [('SSL routines', 'SSL3_GET_RECORD', 'wrong version number')]
+url  theguardian.com
+exception for theguardian.com : timed out
+url  etsy.com
+	 connected
+1003
+url: etsy.com, expires in : 411
+url  slideshare.net
+	 connected
+2663
+url: slideshare.net, expires in : 535
+url  google.com.pk
+	 connected
+1003
+url: google.com.pk, expires in : 80
+url  globo.com
+	 connected
+ssl error for globo.com (54, 'Connection reset by peer')
+url  daum.net
+exception for daum.net : [Errno 61] Connection refused
+url  twitch.tv
+	 connected
+2663
+url: twitch.tv, expires in : 843
+url  bankofamerica.com
+	 connected
+7543
+url: bankofamerica.com, expires in : 299
+url  blogspot.in
+	 connected
+1003
+url: blogspot.in, expires in : 80
+url  stackexchange.com
+	 connected
+5056
+url: stackexchange.com, expires in : 338
+url  adcash.com
+	 connected
+2372
+url: adcash.com, expires in : 385
+url  yelp.com
+	 connected
+2663
+url: yelp.com, expires in : 798
+url  aol.com
+exception for aol.com : [Errno 61] Connection refused
+url  cnet.com
+exception for cnet.com : timed out
+url  chinadaily.com.cn
+exception for chinadaily.com.cn : timed out
+url  indeed.com
+	 connected
+4718
+url: indeed.com, expires in : 509
+url  target.com
+	 connected
+995
+url: target.com, expires in : 210
+url  quora.com
+	 connected
+2372
+url: quora.com, expires in : 636
+url  reimageplus.com
+	 connected
+6794
+url: reimageplus.com, expires in : 882
+url  cnzz.com
+exception for cnzz.com : timed out
+url  flickr.com
+	 connected
+2900
+url: flickr.com, expires in : 645
+url  amazon.it
+	 connected
+2900
+url: amazon.it, expires in : 405
+url  tudou.com
+exception for tudou.com : [Errno 61] Connection refused
+url  redtube.com
+	 connected
+4718
+url: redtube.com, expires in : 695
+url  forbes.com
+	 connected
+2372
+url: forbes.com, expires in : 428
+url  weather.com
+exception for weather.com : [Errno 61] Connection refused
+url  google.nl
+	 connected
+1003
+url: google.nl, expires in : 80
+url  vice.com
+	 connected
+2372
+url: vice.com, expires in : 1005
+url  douban.com
+exception for douban.com : timed out
+url  soundcloud.com
+	 connected
+3012
+url: soundcloud.com, expires in : 138
+url  loading-delivery2.com
+	 connected
+2372
+url: loading-delivery2.com, expires in : 278
+url  ettoday.net
+	 connected
+3263
+url: ettoday.net, expires in : 890
+url  naver.jp
+	 connected
+1003
+url: naver.jp, expires in : 254
+url  bestbuy.com
+	 connected
+995
+url: bestbuy.com, expires in : 210
+url  adf.ly
+	 connected
+5668
+url: adf.ly, expires in : 139
+url  google.co.ve
+	 connected
+1003
+url: google.co.ve, expires in : 80
+url  bp.blogspot.com
+exception for bp.blogspot.com : [Errno 8] nodename nor servname provided, or not known
+url  google.co.za
+	 connected
+1003
+url: google.co.za, expires in : 80
+url  wellsfargo.com
+	 connected
+2178
+url: wellsfargo.com, expires in : 709
+url  youporn.com
+	 connected
+1651
+url: youporn.com, expires in : 228
+url  adplxmd.com
+	 connected
+6794
+url: adplxmd.com, expires in : 506
+url  google.gr
+	 connected
+1003
+url: google.gr, expires in : 80
+url  zillow.com
+	 connected
+4718
+url: zillow.com, expires in : 354
+url  kakaku.com
+exception for kakaku.com : timed out
+url  salesforce.com
+	 connected
+2900
+url: salesforce.com, expires in : 1006
+url  leboncoin.fr
+	 connected
+703
+url: leboncoin.fr, expires in : 216
+url  ikea.com
+exception for ikea.com : timed out
+url  avito.ru
+	 connected
+1004
+url: avito.ru, expires in : 67
+url  godaddy.com
+	 connected
+5668
+url: godaddy.com, expires in : 133
+url  goo.ne.jp
+exception for goo.ne.jp : timed out
+url  vimeo.com
+	 connected
+2663
+url: vimeo.com, expires in : 444
+url  foxnews.com
+	 connected
+995
+url: foxnews.com, expires in : 210
+url  about.com
+	 connected
+1651
+url: about.com, expires in : 923
+url  popcash.net
+	 connected
+5056
+url: popcash.net, expires in : 337
+url  allegro.pl
+exception for allegro.pl : [Errno 61] Connection refused
+url  mozilla.org
+	 connected
+2180
+url: mozilla.org, expires in : 15
+url  google.com.ua
+	 connected
+1003
+url: google.com.ua, expires in : 80
+url  nih.gov
+	 connected
+5832
+url: nih.gov, expires in : 278
+url  doublepimp.com
+	 connected
+5641
+url: doublepimp.com, expires in : 150
+url  livejournal.com
+	 connected
+6794
+url: livejournal.com, expires in : 160
+url  washingtonpost.com
+	 connected
+4024
+url: washingtonpost.com, expires in : 575
+url  theladbible.com
+	 connected
+3012
+url: theladbible.com, expires in : 1051
+url  spaceshipads.com
+exception for spaceshipads.com : [Errno 8] nodename nor servname provided, or not known
+url  zhihu.com
+exception for zhihu.com : timed out
+url  tripadvisor.com
+	 connected
+1866
+url: tripadvisor.com, expires in : 341
+url  w3schools.com
+exception for w3schools.com : [Errno 61] Connection refused
+url  files.wordpress.com
+	 connected
+5668
+url: files.wordpress.com, expires in : 93
+url  taboola.com
+	 connected
+5832
+url: taboola.com, expires in : 190
+url  akamaihd.net
+exception for akamaihd.net : [Errno 8] nodename nor servname provided, or not known
+url  wikihow.com
+exception for wikihow.com : [Errno 61] Connection refused
+url  detik.com
+	 connected
+1866
+url: detik.com, expires in : 406
+url  hclips.com
+	 connected
+5056
+url: hclips.com, expires in : 337
+url  deviantart.com
+	 connected
+4718
+url: deviantart.com, expires in : 810
+url  gfycat.com
+	 connected
+5056
+url: gfycat.com, expires in : 337
+url  feedly.com
+	 connected
+1003
+url: feedly.com, expires in : 144
+url  themeforest.net
+	 connected
+1651
+url: themeforest.net, expires in : 232
+url  9gag.com
+	 connected
+6794
+url: 9gag.com, expires in : 112
+url  tubecup.com
+	 connected
+5056
+url: tubecup.com, expires in : 337
+url  google.com.co
+	 connected
+1003
+url: google.com.co, expires in : 80
+url  americanexpress.com
+	 connected
+2372
+url: americanexpress.com, expires in : 165
+url  onet.pl
+	 connected
+2372
+url: onet.pl, expires in : 43
+url  nametests.com
+	 connected
+5056
+url: nametests.com, expires in : 337
+url  wordpress.org
+	 connected
+5668
+url: wordpress.org, expires in : 754
+url  mediafire.com
+	 connected
+1866
+url: mediafire.com, expires in : 112
+url  shutterstock.com
+	 connected
+1341
+url: shutterstock.com, expires in : 199
+url  amazon.es
+	 connected
+2900
+url: amazon.es, expires in : 405
+url  businessinsider.com
+	 connected
+3012
+url: businessinsider.com, expires in : 1016
+url  comcast.net
+exception for comcast.net : timed out
+url  steamcommunity.com
+	 connected
+2180
+url: steamcommunity.com, expires in : 39
+url  telegraph.co.uk
+	 connected
+995
+url: telegraph.co.uk, expires in : 210
+url  softonic.com
+exception for softonic.com : timed out
+url  espncricinfo.com
+exception for espncricinfo.com : [Errno 61] Connection refused
+url  mystart.com
+	 connected
+6794
+url: mystart.com, expires in : 667
+url  secureserver.net
+	 connected
+5668
+url: secureserver.net, expires in : 642
+url  pixiv.net
+	 connected
+3012
+url: pixiv.net, expires in : 173
+url  usps.com
+	 connected
+1651
+url: usps.com, expires in : 244
+url  flirchi.com
+	 connected
+1651
+url: flirchi.com, expires in : 687
+url  livejasmin.com
+exception for livejasmin.com : timed out
+url  wix.com
+	 connected
+6794
+url: wix.com, expires in : 988
+url  homedepot.com
+exception for homedepot.com : [Errno 61] Connection refused
+url  force.com
+exception for force.com : timed out
+url  office365.com
+	 connected
+758
+url: office365.com, expires in : 488
+url  51.la
+exception for 51.la : [Errno 61] Connection refused
+url  groupon.com
+	 connected
+2372
+url: groupon.com, expires in : 322
+url  ups.com
+	 connected
+2178
+url: ups.com, expires in : 479
+url  zol.com.cn
+exception for zol.com.cn : timed out
+url  archive.org
+	 connected
+6794
+url: archive.org, expires in : 458
+url  google.cn
+exception for google.cn : timed out
+url  google.ro
+	 connected
+1003
+url: google.ro, expires in : 80
+url  bilibili.com
+	 connected
+3012
+url: bilibili.com, expires in : 304
+url  google.se
+	 connected
+1003
+url: google.se, expires in : 80
+url  google.com.sg
+	 connected
+1003
+url: google.com.sg, expires in : 80
+url  steampowered.com
+	 connected
+2180
+url: steampowered.com, expires in : 39
+url  google.com.ng
+	 connected
+1003
+url: google.com.ng, expires in : 80
+url  wikimedia.org
+	 connected
+3012
+url: wikimedia.org, expires in : 455
+url  web.de
+	 connected
+1326
+url: web.de, expires in : 510
+url  doorblog.jp
+exception for doorblog.jp : [Errno 8] nodename nor servname provided, or not known
+url  skype.com
+exception for skype.com : [Errno 61] Connection refused
+url  rambler.ru
+	 connected
+1003
+url: rambler.ru, expires in : 28
+url  weebly.com
+	 connected
+1003
+url: weebly.com, expires in : 306
+url  ndtv.com
+exception for ndtv.com : [Errno 61] Connection refused
+url  nfl.com
+	 connected
+2372
+url: nfl.com, expires in : 245
+url  smzdm.com
+	 connected
+2178
+url: smzdm.com, expires in : 264
+url  github.io
+	 connected
+4718
+url: github.io, expires in : 101
+url  ebay-kleinanzeigen.de
+	 connected
+2900
+url: ebay-kleinanzeigen.de, expires in : 558
+url  orange.fr
+exception for orange.fr : [Errno 61] Connection refused
+url  avg.com
+exception for avg.com : [Errno 61] Connection refused
+url  addthis.com
+	 connected
+2663
+url: addthis.com, expires in : 738
+url  google.com.ph
+	 connected
+1003
+url: google.com.ph, expires in : 80
+url  google.be
+	 connected
+1003
+url: google.be, expires in : 80
+url  gamer.com.tw
+	 connected
+1651
+url: gamer.com.tw, expires in : 325
+url  gmx.net
+	 connected
+7543
+url: gmx.net, expires in : 180
+url  wordreference.com
+exception for wordreference.com : timed out
+url  mercadolivre.com.br
+exception for mercadolivre.com.br : [Errno 61] Connection refused
+url  hdfcbank.com
+	 connected
+5056
+url: hdfcbank.com, expires in : 337
+url  mailchimp.com
+	 connected
+2900
+url: mailchimp.com, expires in : 999
+url  hulu.com
+	 connected
+995
+url: hulu.com, expires in : 210
+url  bitauto.com
+exception for bitauto.com : timed out
+url  google.at
+	 connected
+1003
+url: google.at, expires in : 80
+url  speedtest.net
+exception for speedtest.net : [Errno 61] Connection refused
+url  sourceforge.net
+	 connected
+2372
+url: sourceforge.net, expires in : 11
+url  ifeng.com
+exception for ifeng.com : [Errno 61] Connection refused
+url  youm7.com
+	 connected
+5056
+url: youm7.com, expires in : 337
+url  media.tumblr.com
+	 connected
+7543
+url: media.tumblr.com, expires in : 280
+url  usatoday.com
+exception for usatoday.com : [Errno 61] Connection refused
+url  huanqiu.com
+exception for huanqiu.com : [Errno 61] Connection refused
+url  fedex.com
+	 connected
+2178
+url: fedex.com, expires in : 327
+url  wp.pl
+exception for wp.pl : timed out
+url  xywy.com
+exception for xywy.com : timed out
+url  uptodown.com
+	 connected
+995
+url: uptodown.com, expires in : 210
+url  goodreads.com
+	 connected
+2900
+url: goodreads.com, expires in : 325
+url  paytm.com
+	 connected
+2372
+url: paytm.com, expires in : 644
+url  xfinity.com
+	 connected
+1651
+url: xfinity.com, expires in : 623
+url  abs-cbnnews.com
+	 connected
+5056
+url: abs-cbnnews.com, expires in : 337
+url  xuite.net
+	 connected
+6968
+url: xuite.net, expires in : 986
+url  webmd.com
+exception for webmd.com : [Errno 61] Connection refused
+url  babytree.com
+	 connected
+2178
+url: babytree.com, expires in : 168
+url  ebay.in
+	 connected
+4637
+url: ebay.in, expires in : 672
+url  google.pt
+	 connected
+1003
+url: google.pt, expires in : 80
+url  tlbb8.com
+exception for tlbb8.com : [Errno 8] nodename nor servname provided, or not known
+url  hp.com
+	 connected
+2178
+url: hp.com, expires in : 218
+url  amazon.ca
+	 connected
+2900
+url: amazon.ca, expires in : 405
+url  liveadexchanger.com
+	 connected
+2372
+ssl error for liveadexchanger.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  blog.jp
+	 connected
+1003
+url: blog.jp, expires in : 159
+url  spiegel.de
+	 connected
+1003
+url: spiegel.de, expires in : 1049
+url  t-online.de
+	 connected
+2178
+url: t-online.de, expires in : 264
+url  blogfa.com
+	 connected
+ssl error for blogfa.com [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  udn.com
+exception for udn.com : [Errno 61] Connection refused
+url  macys.com
+	 connected
+995
+url: macys.com, expires in : 210
+url  pandora.com
+	 connected
+2900
+url: pandora.com, expires in : 1123
+url  bet365.com
+	 connected
+1866
+url: bet365.com, expires in : 954
+url  hootsuite.com
+	 connected
+6794
+url: hootsuite.com, expires in : 1015
+url  google.com.pe
+	 connected
+1003
+url: google.com.pe, expires in : 80
+url  thesaurus.com
+exception for thesaurus.com : [Errno 61] Connection refused
+url  google.ae
+	 connected
+1003
+url: google.ae, expires in : 80
+url  stumbleupon.com
+	 connected
+1003
+url: stumbleupon.com, expires in : 20
+url  seznam.cz
+	 connected
+2900
+url: seznam.cz, expires in : 31
+url  capitalone.com
+	 connected
+2178
+url: capitalone.com, expires in : 377
+url  bloomberg.com
+	 connected
+2178
+url: bloomberg.com, expires in : 445
+url  fbcdn.net
+	 connected
+2324
+url: fbcdn.net, expires in : 39
+url  extratorrent.cc
+	 connected
+5056
+url: extratorrent.cc, expires in : 337
+url  answers.com
+	 connected
+4718
+url: answers.com, expires in : 1011
+url  1688.com
+	 connected
+2178
+url: 1688.com, expires in : 203
+url  caijing.com.cn
+exception for caijing.com.cn : [Errno 61] Connection refused
+url  gameforge.com
+	 connected
+1003
+url: gameforge.com, expires in : 688
+url  icicibank.com
+exception for icicibank.com : timed out
+url  spotify.com
+	 connected
+2663
+url: spotify.com, expires in : 577
+url  kaskus.co.id
+	 connected
+2663
+url: kaskus.co.id, expires in : 711
+url  samsung.com
+exception for samsung.com : timed out
+url  ign.com
+exception for ign.com : [Errno 61] Connection refused
+url  dell.com
+	 connected
+365
+ssl error for dell.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  wsj.com
+	 connected
+2178
+url: wsj.com, expires in : 222
+url  putlocker.is
+	 connected
+5056
+url: putlocker.is, expires in : 337
+url  rutracker.org
+exception for rutracker.org : [Errno 61] Connection refused
+url  bild.de
+exception for bild.de : timed out
+url  youth.cn
+exception for youth.cn : timed out
+url  mashable.com
+	 connected
+995
+url: mashable.com, expires in : 210
+url  kohls.com
+	 connected
+1752
+url: kohls.com, expires in : 123
+url  jabong.com
+	 connected
+2372
+url: jabong.com, expires in : 364
+url  liputan6.com
+	 connected
+1651
+url: liputan6.com, expires in : 351
+url  google.ch
+	 connected
+1003
+url: google.ch, expires in : 80
+url  twimg.com
+exception for twimg.com : timed out
+url  2ch.net
+	 connected
+5056
+url: 2ch.net, expires in : 337
+url  accuweather.com
+exception for accuweather.com : timed out
+url  chaturbate.com
+	 connected
+1003
+url: chaturbate.com, expires in : 1201
+url  gmail.com
+	 connected
+1003
+url: gmail.com, expires in : 80
+url  badoo.com
+	 connected
+4718
+url: badoo.com, expires in : 58
+url  reuters.com
+	 connected
+1555
+ssl error for reuters.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  engadget.com
+exception for engadget.com : [Errno 61] Connection refused
+url  39.net
+exception for 39.net : [Errno 61] Connection refused
+url  varzesh3.com
+exception for varzesh3.com : timed out
+url  onlinesbi.com
+	 connected
+2178
+url: onlinesbi.com, expires in : 83
+url  mega.nz
+	 connected
+1651
+url: mega.nz, expires in : 319
+url  att.com
+	 connected
+7543
+url: att.com, expires in : 576
+url  mama.cn
+exception for mama.cn : [Errno 61] Connection refused
+url  slickdeals.net
+	 connected
+5668
+url: slickdeals.net, expires in : 158
+url  rediff.com
+	 connected
+995
+url: rediff.com, expires in : 210
+url  dmm.com
+exception for dmm.com : timed out
+url  trello.com
+	 connected
+5832
+url: trello.com, expires in : 640
+url  zendesk.com
+	 connected
+1651
+url: zendesk.com, expires in : 1373
+url  plarium.com
+	 connected
+5641
+url: plarium.com, expires in : 475
+url  haosou.com
+	 connected
+1501
+url: haosou.com, expires in : 24
+url  tistory.com
+	 connected
+2178
+url: tistory.com, expires in : 611
+url  icloud.com
+	 connected
+2178
+url: icloud.com, expires in : 212
+url  livedoor.biz
+exception for livedoor.biz : [Errno 8] nodename nor servname provided, or not known
+url  google.cl
+	 connected
+1003
+url: google.cl, expires in : 80
+url  warmportrait.com
+exception for warmportrait.com : [Errno 8] nodename nor servname provided, or not known
+url  google.az
+	 connected
+1003
+url: google.az, expires in : 80
+url  gsmarena.com
+exception for gsmarena.com : [Errno 61] Connection refused
+url  newegg.com
+	 connected
+995
+url: newegg.com, expires in : 210
+url  google.cz
+	 connected
+1003
+url: google.cz, expires in : 80
+url  chaoshi.tmall.com
+	 connected
+2178
+url: chaoshi.tmall.com, expires in : 359
+url  1905.com
+exception for 1905.com : [Errno 61] Connection refused
+url  reference.com
+exception for reference.com : [Errno 61] Connection refused
+url  all2lnk.com
+	 connected
+2372
+url: all2lnk.com, expires in : 392
+url  tube8.com
+exception for tube8.com : timed out
+url  battle.net
+	 connected
+4718
+url: battle.net, expires in : 282
+url  life.com.tw
+	 connected
+5056
+url: life.com.tw, expires in : 337
+url  kouclo.com
+exception for kouclo.com : [Errno 61] Connection refused
+url  verizonwireless.com
+	 connected
+2178
+url: verizonwireless.com, expires in : 205
+url  kickstarter.com
+	 connected
+1651
+url: kickstarter.com, expires in : 505
+url  sberbank.ru
+	 connected
+ssl error for sberbank.ru (54, 'Connection reset by peer')
+url  adidas.tmall.com
+	 connected
+2178
+url: adidas.tmall.com, expires in : 359
+url  google.com.bd
+	 connected
+1003
+url: google.com.bd, expires in : 80
+url  mydomainadvisor.com
+exception for mydomainadvisor.com : [Errno 61] Connection refused
+url  liveinternet.ru
+	 connected
+3123
+url: liveinternet.ru, expires in : 403
+url  eksisozluk.com
+	 connected
+3012
+url: eksisozluk.com, expires in : 153
+url  ero-advertising.com
+	 connected
+2372
+url: ero-advertising.com, expires in : 1223
+url  sahibinden.com
+	 connected
+ssl error for sahibinden.com [('SSL routines', 'SSL3_READ_BYTES', 'tlsv1 unrecognized name')]
+url  evernote.com
+	 connected
+2900
+url: evernote.com, expires in : 996
+url  ebay.it
+	 connected
+4637
+url: ebay.it, expires in : 672
+url  milliyet.com.tr
+exception for milliyet.com.tr : timed out
+url  impress.co.jp
+exception for impress.co.jp : timed out
+url  elpais.com
+exception for elpais.com : timed out
+url  51yes.com
+exception for 51yes.com : timed out
+url  cnnic.cn
+	 connected
+4163
+url: cnnic.cn, expires in : 588
+url  iqiyi.com
+	 connected
+2900
+url: iqiyi.com, expires in : 725
+url  vid.me
+	 connected
+1003
+url: vid.me, expires in : 225
+url  oracle.com
+	 connected
+1539
+url: oracle.com, expires in : 59
+url  upornia.com
+	 connected
+5056
+url: upornia.com, expires in : 315
+url  watsons.tmall.com
+	 connected
+2178
+url: watsons.tmall.com, expires in : 359
+url  bleacherreport.com
+	 connected
+2663
+url: bleacherreport.com, expires in : 883
+url  google.hu
+	 connected
+1003
+url: google.hu, expires in : 80
+url  enet.com.cn
+exception for enet.com.cn : timed out
+url  gap.com
+exception for gap.com : timed out
+url  list.tmall.com
+	 connected
+2178
+url: list.tmall.com, expires in : 359
+url  google.co.il
+	 connected
+1003
+url: google.co.il, expires in : 80
+url  yaolan.com
+exception for yaolan.com : timed out
+url  repubblica.it
+exception for repubblica.it : timed out
+url  styletv.com.cn
+exception for styletv.com.cn : timed out
+url  google.co.th
+	 connected
+1003
+url: google.co.th, expires in : 80
+url  slack.com
+	 connected
+2372
+url: slack.com, expires in : 455
+url  infusionsoft.com
+	 connected
+6794
+url: infusionsoft.com, expires in : 655
+url  trackingclick.net
+exception for trackingclick.net : [Errno 8] nodename nor servname provided, or not known
+url  ltn.com.tw
+exception for ltn.com.tw : timed out
+url  rt.com
+	 connected
+1651
+url: rt.com, expires in : 96
+url  baike.com
+exception for baike.com : timed out
+url  torrentz.eu
+	 connected
+1651
+url: torrentz.eu, expires in : 173
+url  ijreview.com
+	 connected
+5056
+url: ijreview.com, expires in : 337
+url  thefreedictionary.com
+	 connected
+3012
+url: thefreedictionary.com, expires in : 1044
+url  scribd.com
+	 connected
+4718
+url: scribd.com, expires in : 136
+url  rbc.ru
+exception for rbc.ru : timed out
+url  likes.com
+	 connected
+5056
+url: likes.com, expires in : 337
+url  ppomppu.co.kr
+	 connected
+1651
+url: ppomppu.co.kr, expires in : 336
+url  ebay.com.au
+	 connected
+4637
+url: ebay.com.au, expires in : 672
+url  onedio.com
+	 connected
+2663
+url: onedio.com, expires in : 206
+url  shopclues.com
+	 connected
+6794
+url: shopclues.com, expires in : 925
+url  exoclick.com
+	 connected
+6794
+url: exoclick.com, expires in : 315
+url  yandex.ua
+	 connected
+1306
+url: yandex.ua, expires in : 39
+url  ask.fm
+	 connected
+2372
+url: ask.fm, expires in : 948
+url  libero.it
+exception for libero.it : [Errno 61] Connection refused
+url  nordstrom.com
+exception for nordstrom.com : timed out
+url  pinimg.com
+	 connected
+4718
+url: pinimg.com, expires in : 353
+url  list-manage.com
+	 connected
+1866
+url: list-manage.com, expires in : 889
+url  nba.com
+	 connected
+1651
+url: nba.com, expires in : 126
+url  taleo.net
+	 connected
+2178
+url: taleo.net, expires in : 386
+url  hurriyet.com.tr
+	 connected
+8076
+url: hurriyet.com.tr, expires in : 625
+url  lady8844.com
+exception for lady8844.com : [Errno 61] Connection refused
+url  hm.com
+exception for hm.com : [Errno 61] Connection refused
+url  retailmenot.com
+exception for retailmenot.com : timed out
+url  citi.com
+	 connected
+7543
+url: citi.com, expires in : 435
+url  cloudfront.net
+exception for cloudfront.net : [Errno 8] nodename nor servname provided, or not known
+url  kompas.com
+exception for kompas.com : timed out
+url  uploaded.net
+	 connected
+2372
+url: uploaded.net, expires in : 304
+url  google.ie
+	 connected
+1003
+url: google.ie, expires in : 80
+url  livedoor.com
+exception for livedoor.com : [Errno 61] Connection refused
+url  surveymonkey.com
+	 connected
+4718
+url: surveymonkey.com, expires in : 633
+url  blogimg.jp
+exception for blogimg.jp : [Errno 8] nodename nor servname provided, or not known
+url  marca.com
+exception for marca.com : timed out
+url  kinogo.co
+	 connected
+5056
+url: kinogo.co, expires in : 337
+url  pconline.com.cn
+exception for pconline.com.cn : [Errno 61] Connection refused
+url  torrentz.in
+	 connected
+1651
+url: torrentz.in, expires in : 173
+url  photobucket.com
+exception for photobucket.com : [Errno 61] Connection refused
+url  google.dz
+	 connected
+1003
+url: google.dz, expires in : 80
+url  4shared.com
+	 connected
+6794
+url: 4shared.com, expires in : 602
+url  cbssports.com
+	 connected
+ssl error for cbssports.com (54, 'Connection reset by peer')
+url  youradexchange.com
+	 connected
+2372
+url: youradexchange.com, expires in : 192
+url  quikr.com
+	 connected
+995
+url: quikr.com, expires in : 210
+url  gizmodo.com
+	 connected
+4718
+url: gizmodo.com, expires in : 807
+url  lifehacker.com
+	 connected
+3012
+url: lifehacker.com, expires in : 1016
+url  goal.com
+	 connected
+3508
+url: goal.com, expires in : 1095
+url  ce.cn
+exception for ce.cn : timed out
+url  4dsply.com
+	 connected
+2674
+ssl error for 4dsply.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  kinopoisk.ru
+	 connected
+3024
+url: kinopoisk.ru, expires in : 34
+url  savefrom.net
+	 connected
+883
+url: savefrom.net, expires in : 883
+url  meetup.com
+	 connected
+2900
+url: meetup.com, expires in : 278
+url  fiverr.com
+	 connected
+3012
+url: fiverr.com, expires in : 323
+url  rdsa2012.com
+	 connected
+279
+url: rdsa2012.com, expires in : 279
+url  ameba.jp
+	 connected
+1661
+url: ameba.jp, expires in : 344
+url  independent.co.uk
+exception for independent.co.uk : timed out
+url  lowes.com
+	 connected
+1480
+url: lowes.com, expires in : 896
+url  eastday.com
+exception for eastday.com : timed out
+url  teepr.com
+	 connected
+5056
+url: teepr.com, expires in : 337
+url  google.fi
+	 connected
+1003
+url: google.fi, expires in : 80
+url  olx.in
+	 connected
+2372
+url: olx.in, expires in : 1000
+url  irctc.co.in
+	 connected
+7543
+url: irctc.co.in, expires in : 24
+url  allrecipes.com
+	 connected
+2182
+url: allrecipes.com, expires in : 24
+url  free.fr
+	 connected
+2372
+url: free.fr, expires in : 624
+url  21cn.com
+exception for 21cn.com : timed out
+url  costco.com
+exception for costco.com : timed out
+url  buzzfil.net
+	 connected
+ssl error for buzzfil.net [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  time.com
+	 connected
+1651
+url: time.com, expires in : 698
+url  corriere.it
+exception for corriere.it : timed out
+url  java.com
+	 connected
+7543
+url: java.com, expires in : 111
+url  disqus.com
+	 connected
+2663
+url: disqus.com, expires in : 869
+url  albawabhnews.com
+	 connected
+ssl error for albawabhnews.com [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  xe.com
+	 connected
+2900
+url: xe.com, expires in : 561
+url  gmarket.co.kr
+	 connected
+2178
+url: gmarket.co.kr, expires in : 146
+url  souq.com
+	 connected
+2695
+url: souq.com, expires in : 497
+url  nbcnews.com
+	 connected
+3228
+url: nbcnews.com, expires in : 597
+url  lemonde.fr
+	 connected
+2663
+url: lemonde.fr, expires in : 53
+url  asos.com
+exception for asos.com : timed out
+url  neobux.com
+	 connected
+3245
+url: neobux.com, expires in : 506
+url  onclicktop.com
+	 connected
+2372
+url: onclicktop.com, expires in : 221
+url  ewt.cc
+	 connected
+2372
+url: ewt.cc, expires in : 203
+url  elmundo.es
+exception for elmundo.es : timed out
+url  xda-developers.com
+	 connected
+2372
+url: xda-developers.com, expires in : 358
+url  chip.de
+exception for chip.de : [Errno 61] Connection refused
+url  zippyshare.com
+	 connected
+3012
+url: zippyshare.com, expires in : 1076
+url  mobile.de
+	 connected
+2900
+url: mobile.de, expires in : 386
+url  hupu.com
+exception for hupu.com : timed out
+url  theverge.com
+exception for theverge.com : [Errno 61] Connection refused
+url  urdupoint.com
+	 connected
+5056
+url: urdupoint.com, expires in : 316
+url  medium.com
+	 connected
+4718
+url: medium.com, expires in : 635
+url  techcrunch.com
+	 connected
+5668
+url: techcrunch.com, expires in : 1057
+url  aparat.com
+exception for aparat.com : timed out
+url  intuit.com
+	 connected
+7543
+url: intuit.com, expires in : 355
+url  1111.tmall.com
+	 connected
+4450
+url: 1111.tmall.com, expires in : 34
+url  gamefaqs.com
+	 connected
+5832
+url: gamefaqs.com, expires in : 493
+url  csdn.net
+exception for csdn.net : timed out
+url  naukri.com
+exception for naukri.com : timed out
+url  tabelog.com
+exception for tabelog.com : timed out
+url  wunderground.com
+	 connected
+3012
+url: wunderground.com, expires in : 1393
+url  shopify.com
+	 connected
+4718
+url: shopify.com, expires in : 859
+url  subscene.com
+	 connected
+5056
+url: subscene.com, expires in : 315
+url  stockstar.com
+exception for stockstar.com : timed out
+url  nyaa.se
+exception for nyaa.se : timed out
+url  google.sk
+	 connected
+1003
+url: google.sk, expires in : 80
+url  chinaz.com
+exception for chinaz.com : [Errno 61] Connection refused
+url  gearbest.com
+exception for gearbest.com : timed out
+url  autohome.com.cn
+exception for autohome.com.cn : [Errno 61] Connection refused
+url  streamcloud.eu
+exception for streamcloud.eu : [Errno 61] Connection refused
+url  lenovo.com
+	 connected
+2178
+url: lenovo.com, expires in : 471
+url  people.com
+exception for people.com : [Errno 61] Connection refused
+url  bestadbid.com
+	 connected
+2372
+url: bestadbid.com, expires in : 289
+url  siteadvisor.com
+	 connected
+1651
+url: siteadvisor.com, expires in : 635
+url  hatena.ne.jp
+	 connected
+992
+url: hatena.ne.jp, expires in : 387
+url  playstation.com
+	 connected
+2900
+url: playstation.com, expires in : 5
+url  suning.com
+	 connected
+Error: Certificate has expired!
+ssl error for suning.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  ancestry.com
+	 connected
+1866
+url: ancestry.com, expires in : 796
+url  azlyrics.com
+exception for azlyrics.com : [Errno 61] Connection refused
+url  11st.co.kr
+	 connected
+2178
+url: 11st.co.kr, expires in : 112
+url  eyny.com
+exception for eyny.com : timed out
+url  doubleclick.net
+	 connected
+1003
+url: doubleclick.net, expires in : 80
+url  expedia.com
+exception for expedia.com : timed out
+url  mercadolibre.com.ar
+	 connected
+2178
+url: mercadolibre.com.ar, expires in : 132
+url  youboy.com
+	 connected
+1003
+url: youboy.com, expires in : 116
+url  blackboard.com
+	 connected
+4718
+url: blackboard.com, expires in : 276
+url  lenta.ru
+exception for lenta.ru : timed out
+url  mercadolibre.com.ve
+	 connected
+2178
+url: mercadolibre.com.ve, expires in : 200
+url  sh.st
+	 connected
+1651
+url: sh.st, expires in : 301
+url  mirror.co.uk
+exception for mirror.co.uk : [Errno 61] Connection refused
+url  google.com.vn
+	 connected
+1003
+url: google.com.vn, expires in : 80
+url  megapopads.com
+	 connected
+236
+url: megapopads.com, expires in : 236
+url  hotels.com
+	 connected
+1986
+ssl error for hotels.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  goodgamestudios.com
+	 connected
+3012
+url: goodgamestudios.com, expires in : 918
+url  nike.com
+	 connected
+5494
+url: nike.com, expires in : 245
+url  beeg.com
+	 connected
+1651
+url: beeg.com, expires in : 786
+url  youtube-mp3.org
+exception for youtube-mp3.org : [Errno 61] Connection refused
+url  box.com
+	 connected
+2372
+url: box.com, expires in : 701
+url  zulily.com
+	 connected
+2900
+url: zulily.com, expires in : 319
+url  lefigaro.fr
+	 connected
+2372
+url: lefigaro.fr, expires in : 86
+url  google.dk
+	 connected
+1003
+url: google.dk, expires in : 80
+url  nifty.com
+	 connected
+992
+url: nifty.com, expires in : 86
+url  epweike.com
+exception for epweike.com : [Errno 61] Connection refused
+url  issuu.com
+	 connected
+2663
+url: issuu.com, expires in : 380
+url  instructables.com
+	 connected
+6794
+url: instructables.com, expires in : 570
+url  npr.org
+	 connected
+1866
+url: npr.org, expires in : 562
+url  jimdo.com
+exception for jimdo.com : timed out
+url  lazada.co.id
+	 connected
+1003
+url: lazada.co.id, expires in : 1248
+url  douyutv.com
+exception for douyutv.com : [Errno 61] Connection refused
+url  realtor.com
+	 connected
+4024
+url: realtor.com, expires in : 511
+url  kijiji.ca
+	 connected
+2900
+url: kijiji.ca, expires in : 364
+url  blogspot.jp
+	 connected
+1003
+url: blogspot.jp, expires in : 80
+url  myway.com
+exception for myway.com : timed out
+url  gazeta.pl
+exception for gazeta.pl : timed out
+url  discovercard.com
+	 connected
+2178
+url: discovercard.com, expires in : 457
+url  6pm.com
+	 connected
+ssl error for 6pm.com (-1, 'Unexpected EOF')
+url  cnbeta.com
+	 connected
+3575
+ssl error for cnbeta.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  17ok.com
+exception for 17ok.com : [Errno 61] Connection refused
+url  haber7.com
+exception for haber7.com : [Errno 61] Connection refused
+url  glassdoor.com
+	 connected
+2372
+url: glassdoor.com, expires in : 825
+url  airbnb.com
+	 connected
+5832
+url: airbnb.com, expires in : 425
+url  sabq.org
+	 connected
+1651
+url: sabq.org, expires in : 334
+url  seesaa.net
+	 connected
+1003
+url: seesaa.net, expires in : 304
+url  subito.it
+	 connected
+2739
+url: subito.it, expires in : 204
+url  xunlei.com
+	 connected
+2178
+url: xunlei.com, expires in : 67
+url  bukalapak.com
+	 connected
+1651
+url: bukalapak.com, expires in : 136
+url  clien.net
+	 connected
+1003
+url: clien.net, expires in : 48
+url  timeanddate.com
+	 connected
+1003
+url: timeanddate.com, expires in : 309
+url  olx.pl
+	 connected
+2695
+url: olx.pl, expires in : 188
+url  digikala.com
+exception for digikala.com : timed out
+url  taringa.net
+	 connected
+1651
+url: taringa.net, expires in : 325
+url  youdao.com
+	 connected
+2372
+url: youdao.com, expires in : 1028
+url  alicdn.com
+exception for alicdn.com : [Errno 8] nodename nor servname provided, or not known
+url  verizon.com
+	 connected
+4718
+url: verizon.com, expires in : 932
+url  mi.com
+exception for mi.com : timed out
+url  focus.de
+	 connected
+1651
+url: focus.de, expires in : 123
+url  overstock.com
+	 connected
+2900
+url: overstock.com, expires in : 350
+url  ebay.fr
+	 connected
+4637
+url: ebay.fr, expires in : 672
+url  unblocked.la
+	 connected
+ssl error for unblocked.la [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  itmedia.co.jp
+exception for itmedia.co.jp : [Errno 8] nodename nor servname provided, or not known
+url  freepik.com
+	 connected
+1651
+url: freepik.com, expires in : 848
+url  kooora.com
+	 connected
+1651
+url: kooora.com, expires in : 510
+url  codecanyon.net
+	 connected
+1651
+url: codecanyon.net, expires in : 232
+url  wetransfer.com
+	 connected
+2663
+url: wetransfer.com, expires in : 569
+url  cityadspix.com
+	 connected
+1651
+url: cityadspix.com, expires in : 320
+url  fidelity.com
+	 connected
+5441
+url: fidelity.com, expires in : 711
+url  justdial.com
+exception for justdial.com : timed out
+url  moneycontrol.com
+	 connected
+7543
+url: moneycontrol.com, expires in : 335
+url  bhaskar.com
+	 connected
+995
+url: bhaskar.com, expires in : 210
+url  popped.biz
+	 connected
+1651
+url: popped.biz, expires in : 332
+url  kayak.com
+	 connected
+1651
+url: kayak.com, expires in : 869
+url  instructure.com
+	 connected
+5668
+url: instructure.com, expires in : 187
+url  thepiratebay.la
+	 connected
+ssl error for thepiratebay.la [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  sears.com
+	 connected
+995
+url: sears.com, expires in : 210
+url  squarespace.com
+	 connected
+4718
+url: squarespace.com, expires in : 568
+url  sharepoint.com
+exception for sharepoint.com : timed out
+url  connect814.com
+exception for connect814.com : [Errno 61] Connection refused
+url  drudgereport.com
+exception for drudgereport.com : [Errno 61] Connection refused
+url  tmz.com
+	 connected
+6794
+url: tmz.com, expires in : 271
+url  so-net.ne.jp
+	 connected
+2178
+url: so-net.ne.jp, expires in : 39
+url  rottentomatoes.com
+	 connected
+6794
+url: rottentomatoes.com, expires in : 250
+url  duckduckgo.com
+	 connected
+2663
+url: duckduckgo.com, expires in : 213
+url  latimes.com
+exception for latimes.com : [Errno 61] Connection refused
+url  yodobashi.com
+	 connected
+2178
+url: yodobashi.com, expires in : 178
+url  foodnetwork.com
+	 connected
+307
+url: foodnetwork.com, expires in : 307
+url  hespress.com
+	 connected
+5056
+url: hespress.com, expires in : 337
+url  udemy.com
+	 connected
+5056
+url: udemy.com, expires in : 337
+url  japanpost.jp
+exception for japanpost.jp : timed out
+url  clickadu.com
+	 connected
+1868
+url: clickadu.com, expires in : 45
+url  asana.com
+	 connected
+6794
+url: asana.com, expires in : 820
+url  google.com.my
+	 connected
+1003
+url: google.com.my, expires in : 80
+url  k618.cn
+exception for k618.cn : timed out
+url  okcupid.com
+	 connected
+5668
+url: okcupid.com, expires in : 138
+url  slate.com
+exception for slate.com : [Errno 61] Connection refused
+url  urbandictionary.com
+exception for urbandictionary.com : [Errno 61] Connection refused
+url  wayfair.com
+	 connected
+6794
+url: wayfair.com, expires in : 973
+url  yandex.com.tr
+	 connected
+1306
+url: yandex.com.tr, expires in : 39
+url  donga.com
+exception for donga.com : timed out
+url  woot.com
+	 connected
+3233
+url: woot.com, expires in : 178
+url  vcommission.com
+	 connected
+23
+ssl error for vcommission.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  zomato.com
+	 connected
+6794
+url: zomato.com, expires in : 301
+url  researchgate.net
+	 connected
+3012
+url: researchgate.net, expires in : 300
+url  change.org
+	 connected
+5668
+url: change.org, expires in : 334
+url  gmanetwork.com
+exception for gmanetwork.com : [Errno 61] Connection refused
+url  r10.net
+	 connected
+5056
+url: r10.net, expires in : 337
+url  goo.gl
+	 connected
+1003
+url: goo.gl, expires in : 80
+url  airtel.in
+	 connected
+2900
+url: airtel.in, expires in : 201
+url  constantcontact.com
+	 connected
+3012
+url: constantcontact.com, expires in : 792
+url  cookpad.com
+	 connected
+2900
+url: cookpad.com, expires in : 345
+url  vnexpress.net
+exception for vnexpress.net : timed out
+url  sakura.ne.jp
+exception for sakura.ne.jp : timed out
+url  interia.pl
+	 connected
+759
+url: interia.pl, expires in : 759
+url  abcnews.go.com
+	 connected
+1480
+url: abcnews.go.com, expires in : 99
+url  php.net
+	 connected
+1651
+url: php.net, expires in : 194
+url  microsoftstore.com
+	 connected
+758
+url: microsoftstore.com, expires in : 503
+url  wired.com
+exception for wired.com : [Errno 61] Connection refused
+url  bhphotovideo.com
+	 connected
+1651
+url: bhphotovideo.com, expires in : 569
+url  southwest.com
+	 connected
+1651
+url: southwest.com, expires in : 718
+url  asus.com
+	 connected
+4450
+url: asus.com, expires in : 584
+url  cnbc.com
+	 connected
+1651
+url: cnbc.com, expires in : 11
+url  oeeee.com
+exception for oeeee.com : timed out
+url  eonline.com
+exception for eonline.com : timed out
+url  shareasale.com
+	 connected
+5668
+url: shareasale.com, expires in : 969
+url  qunar.com
+exception for qunar.com : [Errno 61] Connection refused
+url  agoda.com
+	 connected
+2663
+url: agoda.com, expires in : 736
+url  pof.com
+	 connected
+4718
+url: pof.com, expires in : 143
+url  tokopedia.com
+	 connected
+2663
+url: tokopedia.com, expires in : 277
+url  mixi.jp
+	 connected
+992
+url: mixi.jp, expires in : 8
+url  webssearches.com
+exception for webssearches.com : [Errno 61] Connection refused
+url  ca.gov
+	 connected
+ssl error for ca.gov (54, 'Connection reset by peer')
+url  momoshop.com.tw
+	 connected
+1651
+url: momoshop.com.tw, expires in : 472
+url  academia.edu
+	 connected
+1651
+url: academia.edu, expires in : 686
+url  superuser.com
+	 connected
+5056
+url: superuser.com, expires in : 337
+url  makemytrip.com
+	 connected
+2178
+url: makemytrip.com, expires in : 407
+url  xl415.com
+exception for xl415.com : timed out
+url  trulia.com
+	 connected
+2372
+url: trulia.com, expires in : 695
+url  billdesk.com
+	 connected
+2178
+url: billdesk.com, expires in : 533
+url  statcounter.com
+	 connected
+5668
+url: statcounter.com, expires in : 57
+url  cdiscount.com
+	 connected
+2372
+url: cdiscount.com, expires in : 306
+url  iflscience.com
+exception for iflscience.com : timed out
+url  xbox.com
+exception for xbox.com : timed out
+url  askmebazaar.com
+	 connected
+6794
+url: askmebazaar.com, expires in : 571
+url  fanli.com
+	 connected
+2372
+url: fanli.com, expires in : 292
+url  staples.com
+	 connected
+4637
+url: staples.com, expires in : 109
+url  domaintools.com
+	 connected
+3508
+url: domaintools.com, expires in : 163
+url  thewatchseries.to
+exception for thewatchseries.to : [Errno 61] Connection refused
+url  ensonhaber.com
+	 connected
+161
+url: ensonhaber.com, expires in : 161
+url  ytimg.com
+exception for ytimg.com : [Errno 8] nodename nor servname provided, or not known
+url  bomb01.com
+	 connected
+5056
+url: bomb01.com, expires in : 337
+url  swagbucks.com
+	 connected
+2519
+url: swagbucks.com, expires in : 613
+url  wonderlandads.com
+	 connected
+2372
+url: wonderlandads.com, expires in : 225
+url  pcmag.com
+exception for pcmag.com : timed out
+url  livescore.com
+exception for livescore.com : timed out
+url  ria.ru
+exception for ria.ru : timed out
+url  gigazine.net
+	 connected
+2535
+ssl error for gigazine.net [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  chron.com
+	 connected
+Error: Certificate has expired!
+ssl error for chron.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  alexa.cn
+exception for alexa.cn : [Errno 61] Connection refused
+url  custhelp.com
+	 connected
+1866
+url: custhelp.com, expires in : 222
+url  jcpenney.com
+	 connected
+2372
+url: jcpenney.com, expires in : 409
+url  asahi.com
+exception for asahi.com : [Errno 8] nodename nor servname provided, or not known
+url  food.com
+	 connected
+44
+ssl error for food.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  pch.com
+	 connected
+4718
+url: pch.com, expires in : 1112
+url  rednet.cn
+exception for rednet.cn : timed out
+url  zeroredirect1.com
+exception for zeroredirect1.com : timed out
+url  abril.com.br
+exception for abril.com.br : timed out
+url  zoho.com
+	 connected
+1651
+url: zoho.com, expires in : 463
+url  mihanblog.com
+exception for mihanblog.com : timed out
+url  buy.tmall.com
+	 connected
+4450
+url: buy.tmall.com, expires in : 34
+url  giphy.com
+	 connected
+1003
+url: giphy.com, expires in : 111
+url  blog.me
+exception for blog.me : [Errno 61] Connection refused
+url  eastmoney.com
+exception for eastmoney.com : [Errno 61] Connection refused
+url  hatenablog.com
+exception for hatenablog.com : timed out
+url  wow.com
+exception for wow.com : [Errno 61] Connection refused
+url  ero-video.net
+	 connected
+5832
+url: ero-video.net, expires in : 556
+url  appledaily.com.tw
+	 connected
+995
+url: appledaily.com.tw, expires in : 210
+url  upwork.com
+	 connected
+4718
+url: upwork.com, expires in : 487
+url  eventbrite.com
+	 connected
+5832
+url: eventbrite.com, expires in : 45
+url  youjizz.com
+	 connected
+1651
+url: youjizz.com, expires in : 73
+url  hostgator.com
+	 connected
+1059
+url: hostgator.com, expires in : 1059
+url  aweber.com
+	 connected
+1003
+url: aweber.com, expires in : 347
+url  nypost.com
+	 connected
+5668
+url: nypost.com, expires in : 1057
+url  bitly.com
+	 connected
+4718
+url: bitly.com, expires in : 1013
+url  twoo.com
+	 connected
+2663
+url: twoo.com, expires in : 255
+url  patch.com
+	 connected
+2663
+url: patch.com, expires in : 920
+url  videodownloadconverter.com
+	 connected
+2372
+url: videodownloadconverter.com, expires in : 504
+url  liveleak.com
+exception for liveleak.com : timed out
+url  sciencedirect.com
+	 connected
+5153
+url: sciencedirect.com, expires in : 463
+url  cbc.ca
+	 connected
+995
+url: cbc.ca, expires in : 210
+url  yandex.kz
+	 connected
+1306
+url: yandex.kz, expires in : 39
+url  googleadservices.com
+	 connected
+1003
+url: googleadservices.com, expires in : 80
+url  okezone.com
+exception for okezone.com : [Errno 61] Connection refused
+url  onlylady.com
+exception for onlylady.com : timed out
+url  cbsnews.com
+exception for cbsnews.com : timed out
+url  mercadolibre.com.mx
+	 connected
+2178
+url: mercadolibre.com.mx, expires in : 132
+url  123cha.com
+exception for 123cha.com : timed out
+url  mlb.com
+exception for mlb.com : timed out
+url  investing.com
+exception for investing.com : [Errno 61] Connection refused
+url  gamespot.com
+	 connected
+5832
+url: gamespot.com, expires in : 843
+url  houzz.com
+	 connected
+3012
+url: houzz.com, expires in : 315
+url  nikkei.com
+exception for nikkei.com : [Errno 61] Connection refused
+url  theatlantic.com
+	 connected
+3012
+url: theatlantic.com, expires in : 323
+url  zappos.com
+	 connected
+ssl error for zappos.com (54, 'Connection reset by peer')
+url  norton.com
+	 connected
+7543
+url: norton.com, expires in : 224
+url  workercn.cn
+exception for workercn.cn : [Errno 8] nodename nor servname provided, or not known
+url  olx.ua
+	 connected
+2695
+url: olx.ua, expires in : 389
+url  netshoes.com.br
+	 connected
+2178
+url: netshoes.com.br, expires in : 71
+url  howtogeek.com
+	 connected
+5832
+url: howtogeek.com, expires in : 339
+url  vetogate.com
+	 connected
+ssl error for vetogate.com [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  biglobe.ne.jp
+exception for biglobe.ne.jp : timed out
+url  nikkeibp.co.jp
+exception for nikkeibp.co.jp : [Errno 61] Connection refused
+url  tnaflix.com
+	 connected
+2372
+url: tnaflix.com, expires in : 377
+url  commentcamarche.net
+	 connected
+2087
+ssl error for commentcamarche.net [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  ticketmaster.com
+exception for ticketmaster.com : timed out
+url  toysrus.com
+	 connected
+1003
+url: toysrus.com, expires in : 921
+url  semrush.com
+	 connected
+1003
+url: semrush.com, expires in : 191
+url  babycenter.com
+exception for babycenter.com : [Errno 61] Connection refused
+url  58.com
+exception for 58.com : timed out
+url  weblio.jp
+	 connected
+3012
+url: weblio.jp, expires in : 980
+url  littlethings.com
+exception for littlethings.com : [Errno 61] Connection refused
+url  yallakora.com
+exception for yallakora.com : timed out
+url  gemius.pl
+	 connected
+1003
+url: gemius.pl, expires in : 718
+url  staticwebdom.com
+	 connected
+ssl error for staticwebdom.com (54, 'Connection reset by peer')
+url  faithtap.com
+	 connected
+5056
+url: faithtap.com, expires in : 337
+url  behance.net
+	 connected
+7543
+url: behance.net, expires in : 800
+url  prpops.com
+	 connected
+88
+url: prpops.com, expires in : 88
+url  auction.co.kr
+exception for auction.co.kr : timed out
+url  reverso.net
+exception for reverso.net : timed out
+url  adp.com
+	 connected
+2178
+url: adp.com, expires in : 487
+url  messenger.com
+	 connected
+2324
+url: messenger.com, expires in : 39
+url  popsugar.com
+	 connected
+6794
+url: popsugar.com, expires in : 94
+url  ibm.com
+	 connected
+2372
+url: ibm.com, expires in : 1103
+url  aa.com
+	 connected
+4024
+url: aa.com, expires in : 723
+url  zara.com
+	 connected
+2372
+url: zara.com, expires in : 339
+url  clipconverter.cc
+exception for clipconverter.cc : [Errno 61] Connection refused
+url  exblog.jp
+	 connected
+2900
+url: exblog.jp, expires in : 346
+url  jrj.com.cn
+exception for jrj.com.cn : timed out
+url  jumia.com.ng
+	 connected
+1651
+url: jumia.com.ng, expires in : 5
+url  leagueoflegends.com
+	 connected
+4718
+url: leagueoflegends.com, expires in : 1109
+url  ci123.com
+exception for ci123.com : [Errno 61] Connection refused
+url  cbs.com
+	 connected
+5832
+url: cbs.com, expires in : 1065
+url  intoday.in
+exception for intoday.in : timed out
+url  voc.com.cn
+	 connected
+1501
+url: voc.com.cn, expires in : 1001
+url  cam4.com
+	 connected
+5832
+url: cam4.com, expires in : 269
+url  slimspots.com
+	 connected
+1651
+url: slimspots.com, expires in : 87
+url  saramin.co.kr
+	 connected
+1651
+url: saramin.co.kr, expires in : 97
+url  clixsense.com
+	 connected
+1003
+url: clixsense.com, expires in : 610
+url  musicboxnewtab.com
+exception for musicboxnewtab.com : [Errno 61] Connection refused
+url  wp.com
+	 connected
+5668
+url: wp.com, expires in : 1057
+url  google.no
+	 connected
+1003
+url: google.no, expires in : 80
+url  mackeeper.com
+	 connected
+2372
+url: mackeeper.com, expires in : 288
+url  marketwatch.com
+	 connected
+2178
+url: marketwatch.com, expires in : 349
+url  mit.edu
+	 connected
+2372
+url: mit.edu, expires in : 121
+url  rev2pub.com
+	 connected
+Error: Certificate has expired!
+ssl error for rev2pub.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  mayoclinic.org
+	 connected
+1651
+url: mayoclinic.org, expires in : 834
+url  rapidgator.net
+	 connected
+2372
+url: rapidgator.net, expires in : 801
+url  histats.com
+	 connected
+Error: Certificate has expired!
+ssl error for histats.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  bodybuilding.com
+	 connected
+4718
+url: bodybuilding.com, expires in : 187
+url  chinaso.com
+exception for chinaso.com : [Errno 61] Connection refused
+url  europa.eu
+	 connected
+3012
+url: europa.eu, expires in : 880
+url  zing.vn
+	 connected
+4718
+url: zing.vn, expires in : 1091
+url  webex.com
+exception for webex.com : [Errno 61] Connection refused
+url  nhk.or.jp
+exception for nhk.or.jp : [Errno 8] nodename nor servname provided, or not known
+url  gutefrage.net
+	 connected
+2739
+url: gutefrage.net, expires in : 339
+url  usaa.com
+	 connected
+2900
+url: usaa.com, expires in : 142
+url  atlassian.net
+	 connected
+4718
+url: atlassian.net, expires in : 724
+url  state.gov
+	 connected
+ssl error for state.gov (54, 'Connection reset by peer')
+url  to8to.com
+	 connected
+1004
+url: to8to.com, expires in : 167
+url  egou.com
+	 connected
+1501
+url: egou.com, expires in : 980
+url  e-hentai.org
+exception for e-hentai.org : [Errno 61] Connection refused
+url  coursera.org
+	 connected
+5668
+url: coursera.org, expires in : 410
+url  315che.com
+exception for 315che.com : timed out
+url  wikiwiki.jp
+	 connected
+5056
+url: wikiwiki.jp, expires in : 337
+url  cnmo.com
+exception for cnmo.com : [Errno 61] Connection refused
+url  junbi-tracker.com
+exception for junbi-tracker.com : [Errno 61] Connection refused
+url  drtuber.com
+exception for drtuber.com : timed out
+url  wiktionary.org
+	 connected
+3012
+url: wiktionary.org, expires in : 455
+url  ew.com
+exception for ew.com : [Errno 61] Connection refused
+url  rightmove.co.uk
+	 connected
+4718
+url: rightmove.co.uk, expires in : 204
+url  pureadexchange.com
+	 connected
+2372
+url: pureadexchange.com, expires in : 222
+url  b5m.com
+	 connected
+1501
+url: b5m.com, expires in : 403
+url  cloudsrvtrk.com
+exception for cloudsrvtrk.com : [Errno 61] Connection refused
+url  ebates.com
+	 connected
+3012
+url: ebates.com, expires in : 108
+url  google.bg
+	 connected
+1003
+url: google.bg, expires in : 80
+url  mynet.com
+	 connected
+2372
+url: mynet.com, expires in : 738
+url  gismeteo.ru
+	 connected
+1651
+url: gismeteo.ru, expires in : 1394
+url  indianexpress.com
+	 connected
+5668
+url: indianexpress.com, expires in : 1057
+url  myfitnesspal.com
+	 connected
+2663
+url: myfitnesspal.com, expires in : 509
+url  dropbooks.tv
+exception for dropbooks.tv : [Errno 61] Connection refused
+url  windows.com
+exception for windows.com : timed out
+url  acfun.tv
+exception for acfun.tv : [Errno 61] Connection refused
+url  lequipe.fr
+	 connected
+ssl error for lequipe.fr [('SSL routines', 'SSL3_GET_RECORD', 'wrong version number')]
+url  nydailynews.com
+	 connected
+3012
+url: nydailynews.com, expires in : 1016
+url  altervista.org
+	 connected
+2372
+url: altervista.org, expires in : 687
+url  backpage.com
+	 connected
+2663
+url: backpage.com, expires in : 53
+url  thesportbible.com
+	 connected
+5056
+url: thesportbible.com, expires in : 337
+url  google.co.nz
+	 connected
+1003
+url: google.co.nz, expires in : 80
+url  vk.me
+	 connected
+6794
+url: vk.me, expires in : 1029
+url  redirectvoluum.com
+exception for redirectvoluum.com : [Errno 8] nodename nor servname provided, or not known
+url  blogspot.gr
+	 connected
+1003
+url: blogspot.gr, expires in : 80
+url  trklnks.com
+	 connected
+5641
+url: trklnks.com, expires in : 192
+url  emol.com
+exception for emol.com : timed out
+url  kdnet.net
+exception for kdnet.net : timed out
+url  nhl.com
+exception for nhl.com : [Errno 61] Connection refused
+url  milanuncios.com
+	 connected
+1651
+url: milanuncios.com, expires in : 164
+url  dianping.com
+exception for dianping.com : [Errno 61] Connection refused
+url  delta.com
+exception for delta.com : timed out
+url  mobile01.com
+exception for mobile01.com : timed out
+url  sephora.com
+	 connected
+4718
+url: sephora.com, expires in : 1010
+url  shareba.com
+	 connected
+5056
+url: shareba.com, expires in : 337
+url  informer.com
+	 connected
+1651
+url: informer.com, expires in : 199
+url  zone-telechargement.com
+	 connected
+ssl error for zone-telechargement.com [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  gyazo.com
+	 connected
+2372
+url: gyazo.com, expires in : 533
+url  qvc.com
+exception for qvc.com : timed out
+url  sozcu.com.tr
+exception for sozcu.com.tr : [Errno 61] Connection refused
+url  tribunnews.com
+exception for tribunnews.com : [Errno 61] Connection refused
+url  fishki.net
+exception for fishki.net : [Errno 61] Connection refused
+url  gazzetta.it
+exception for gazzetta.it : timed out
+url  cisco.com
+	 connected
+2178
+url: cisco.com, expires in : 302
+url  novinky.cz
+exception for novinky.cz : timed out
+url  disq.us
+	 connected
+3012
+url: disq.us, expires in : 1016
+url  tsite.jp
+	 connected
+992
+url: tsite.jp, expires in : 39
+url  techradar.com
+	 connected
+5832
+url: techradar.com, expires in : 432
+url  farsnews.com
+exception for farsnews.com : timed out
+url  admtpmp124.com
+exception for admtpmp124.com : [Errno 8] nodename nor servname provided, or not known
+url  yenisafak.com
+exception for yenisafak.com : timed out
+url  india.com
+exception for india.com : timed out
+url  lapatilla.com
+	 connected
+1003
+url: lapatilla.com, expires in : 103
+url  uniqlo.com
+	 connected
+2178
+url: uniqlo.com, expires in : 854
+url  olx.com.br
+	 connected
+1866
+url: olx.com.br, expires in : 59
+url  investopedia.com
+exception for investopedia.com : [Errno 61] Connection refused
+url  admtpmp123.com
+exception for admtpmp123.com : [Errno 8] nodename nor servname provided, or not known
+url  hubspot.com
+	 connected
+5832
+url: hubspot.com, expires in : 479
+url  primewire.ag
+	 connected
+5056
+url: primewire.ag, expires in : 337
+url  yoka.com
+exception for yoka.com : timed out
+url  www.gov.uk
+	 connected
+4718
+url: www.gov.uk, expires in : 381
+url  infoseek.co.jp
+	 connected
+2178
+url: infoseek.co.jp, expires in : 40
+url  clarin.com
+	 connected
+1651
+url: clarin.com, expires in : 861
+url  blogspot.com.tr
+	 connected
+1003
+url: blogspot.com.tr, expires in : 80
+url  netteller.com
+exception for netteller.com : [Errno 8] nodename nor servname provided, or not known
+url  t-mobile.com
+	 connected
+4024
+url: t-mobile.com, expires in : 249
+url  sapo.pt
+exception for sapo.pt : [Errno 61] Connection refused
+url  androidcentral.com
+	 connected
+3012
+url: androidcentral.com, expires in : 185
+url  adschemist.com
+exception for adschemist.com : timed out
+url  ted.com
+	 connected
+1003
+url: ted.com, expires in : 786
+url  cnblogs.com
+	 connected
+248
+url: cnblogs.com, expires in : 248
+url  breitbart.com
+	 connected
+2663
+url: breitbart.com, expires in : 53
+url  almasryalyoum.com
+	 connected
+5056
+url: almasryalyoum.com, expires in : 337
+url  yadi.sk
+	 connected
+3024
+url: yadi.sk, expires in : 33
+url  atwiki.jp
+exception for atwiki.jp : timed out
+url  usbank.com
+	 connected
+4024
+url: usbank.com, expires in : 997
+url  ehow.com
+	 connected
+501
+url: ehow.com, expires in : 501
+url  jin115.com
+exception for jin115.com : [Errno 61] Connection refused
+url  quizlet.com
+	 connected
+2663
+url: quizlet.com, expires in : 44
+url  indianrail.gov.in
+exception for indianrail.gov.in : timed out
+url  filehippo.com
+	 connected
+Error: Certificate has expired!
+ssl error for filehippo.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  sbnation.com
+exception for sbnation.com : [Errno 61] Connection refused
+url  lifebuzz.com
+	 connected
+5056
+url: lifebuzz.com, expires in : 337
+url  welt.de
+exception for welt.de : timed out
+url  anitube.se
+	 connected
+5056
+url: anitube.se, expires in : 337
+url  prezi.com
+	 connected
+2372
+url: prezi.com, expires in : 197
+url  bookmyshow.com
+exception for bookmyshow.com : timed out
+url  etao.com
+exception for etao.com : timed out
+url  genius.com
+	 connected
+5056
+url: genius.com, expires in : 306
+url  getpocket.com
+	 connected
+2178
+url: getpocket.com, expires in : 878
+url  dreamstime.com
+	 connected
+1003
+url: dreamstime.com, expires in : 116
+url  thedailybeast.com
+	 connected
+1003
+url: thedailybeast.com, expires in : 243
+url  cracked.com
+	 connected
+ssl error for cracked.com (54, 'Connection reset by peer')
+url  gawker.com
+	 connected
+4718
+url: gawker.com, expires in : 807
+url  thekitchn.com
+exception for thekitchn.com : [Errno 61] Connection refused
+url  offpageads.com
+	 connected
+ssl error for offpageads.com (54, 'Connection reset by peer')
+url  stamplive.com
+exception for stamplive.com : timed out
+url  tomshardware.com
+	 connected
+4718
+url: tomshardware.com, expires in : 226
+url  google.lk
+	 connected
+1003
+url: google.lk, expires in : 80
+url  argos.co.uk
+exception for argos.co.uk : timed out
+url  android.com
+	 connected
+1003
+url: android.com, expires in : 80
+url  sky.com
+	 connected
+ssl error for sky.com [('SSL routines', 'SSL3_GET_RECORD', 'wrong version number')]
+url  intel.com
+exception for intel.com : [Errno 61] Connection refused
+url  123rf.com
+	 connected
+2372
+url: 123rf.com, expires in : 28
+url  4chan.org
+	 connected
+5056
+url: 4chan.org, expires in : 337
+url  united.com
+	 connected
+2372
+url: united.com, expires in : 122
+url  thehindu.com
+exception for thehindu.com : timed out
+url  geocities.jp
+exception for geocities.jp : [Errno 8] nodename nor servname provided, or not known
+url  himado.in
+exception for himado.in : [Errno 61] Connection refused
+url  ampclicks.com
+	 connected
+2178
+url: ampclicks.com, expires in : 778
+url  as.com
+exception for as.com : timed out
+url  tutorialspoint.com
+	 connected
+75
+url: tutorialspoint.com, expires in : 75
+url  drom.ru
+	 connected
+1651
+url: drom.ru, expires in : 1023
+url  google.by
+	 connected
+1003
+url: google.by, expires in : 80
+url  tesco.com
+exception for tesco.com : timed out
+url  adme.ru
+	 connected
+6794
+url: adme.ru, expires in : 792
+url  banggood.com
+exception for banggood.com : [Errno 61] Connection refused
+url  mysmartprice.com
+	 connected
+2900
+url: mysmartprice.com, expires in : 627
+url  idnes.cz
+exception for idnes.cz : timed out
+url  audible.com
+exception for audible.com : [Errno 61] Connection refused
+url  google.rs
+	 connected
+1003
+url: google.rs, expires in : 80
+url  wiley.com
+exception for wiley.com : timed out
+url  yomiuri.co.jp
+exception for yomiuri.co.jp : timed out
+url  seasonvar.ru
+exception for seasonvar.ru : [Errno 61] Connection refused
+url  mega.co.nz
+	 connected
+1651
+url: mega.co.nz, expires in : 244
+url  gamepedia.com
+	 connected
+5056
+url: gamepedia.com, expires in : 347
+url  sfgate.com
+	 connected
+Error: Certificate has expired!
+ssl error for sfgate.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  masrawy.com
+exception for masrawy.com : timed out
+url  wav.tv
+exception for wav.tv : [Errno 61] Connection refused
+url  rakuten.ne.jp
+exception for rakuten.ne.jp : [Errno 8] nodename nor servname provided, or not known
+url  india-mmm.net
+	 connected
+5056
+url: india-mmm.net, expires in : 315
+url  lanacion.com.ar
+exception for lanacion.com.ar : timed out
+url  rarbg.to
+	 connected
+1651
+url: rarbg.to, expires in : 140
+url  basecamp.com
+	 connected
+2900
+url: basecamp.com, expires in : 85
+url  priceline.com
+	 connected
+2372
+url: priceline.com, expires in : 59
+url  feclik.com
+exception for feclik.com : timed out
+url  dafont.com
+	 connected
+1651
+url: dafont.com, expires in : 1057
+url  ebay.ca
+	 connected
+4637
+url: ebay.ca, expires in : 672
+url  xing.com
+	 connected
+1003
+url: xing.com, expires in : 1145
+url  kotaku.com
+	 connected
+3012
+url: kotaku.com, expires in : 1016
+url  usmagazine.com
+	 connected
+456
+url: usmagazine.com, expires in : 456
+url  mapquest.com
+exception for mapquest.com : [Errno 61] Connection refused
+url  topf1le.com
+exception for topf1le.com : [Errno 8] nodename nor servname provided, or not known
+url  2chblog.jp
+exception for 2chblog.jp : [Errno 8] nodename nor servname provided, or not known
+url  agar.io
+	 connected
+5056
+url: agar.io, expires in : 337
+url  friv.com
+exception for friv.com : [Errno 61] Connection refused
+url  ruten.com.tw
+exception for ruten.com.tw : [Errno 61] Connection refused
+url  whitepages.com
+	 connected
+5641
+url: whitepages.com, expires in : 1233
+url  fanduel.com
+	 connected
+6794
+url: fanduel.com, expires in : 724
+url  fanpage.gr
+exception for fanpage.gr : [Errno 61] Connection refused
+url  deezer.com
+	 connected
+1651
+url: deezer.com, expires in : 238
+url  coupons.com
+	 connected
+5668
+url: coupons.com, expires in : 766
+url  allocine.fr
+exception for allocine.fr : [Errno 61] Connection refused
+url  sammydress.com
+exception for sammydress.com : timed out
+url  yaplakal.com
+exception for yaplakal.com : [Errno 61] Connection refused
+url  today.com
+	 connected
+3228
+url: today.com, expires in : 597
+url  nbcsports.com
+	 connected
+Error: Certificate has expired!
+ssl error for nbcsports.com [('SSL routines', 'SSL3_GET_SERVER_CERTIFICATE', 'certificate verify failed')]
+url  tagged.com
+	 connected
+2663
+url: tagged.com, expires in : 619
+url  weather.gov
+	 connected
+6794
+url: weather.gov, expires in : 361
+url  vodlocker.com
+	 connected
+5056
+url: vodlocker.com, expires in : 316
+url  alwafd.org
+	 connected
+5056
+url: alwafd.org, expires in : 316
+url  padsdel.com
+exception for padsdel.com : [Errno 8] nodename nor servname provided, or not known
+url  digg.com
+	 connected
+2372
+url: digg.com, expires in : 564
+url  sex.com
+exception for sex.com : [Errno 61] Connection refused
+url  news.com.au
+	 connected
+995
+url: news.com.au, expires in : 210
+url  carview.co.jp
+	 connected
+3012
+url: carview.co.jp, expires in : 374
+url  thisav.com
+	 connected
+5056
+url: thisav.com, expires in : 339
+url  digitaltrends.com
+exception for digitaltrends.com : timed out
+url  google.com.kw
+	 connected
+1003
+url: google.com.kw, expires in : 80
+url  istockphoto.com
+	 connected
+2372
+url: istockphoto.com, expires in : 448
+url  elfagr.org
+	 connected
+ssl error for elfagr.org [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  shutterfly.com
+	 connected
+2324
+url: shutterfly.com, expires in : 360
+url  adk2.com
+	 connected
+233
+url: adk2.com, expires in : 233
+url  torcache.net
+	 connected
+1651
+url: torcache.net, expires in : 172
+url  ccm.net
+	 connected
+995
+url: ccm.net, expires in : 210
+url  images-amazon.com
+exception for images-amazon.com : [Errno 8] nodename nor servname provided, or not known
+url  haberturk.com
+	 connected
+6794
+url: haberturk.com, expires in : 93
+url  bedbathandbeyond.com
+	 connected
+2178
+url: bedbathandbeyond.com, expires in : 235
+url  n11.com
+	 connected
+2215
+url: n11.com, expires in : 403
+url  vine.co
+	 connected
+4718
+url: vine.co, expires in : 753
+url  delta-homes.com
+exception for delta-homes.com : [Errno 61] Connection refused
+url  pagesjaunes.fr
+	 connected
+2215
+url: pagesjaunes.fr, expires in : 564
+url  walgreens.com
+	 connected
+2178
+url: walgreens.com, expires in : 481
+url  abs-cbn.com
+exception for abs-cbn.com : timed out
+url  prntscr.com
+	 connected
+5056
+url: prntscr.com, expires in : 316
+url  roblox.com
+	 connected
+1026
+url: roblox.com, expires in : 1026
+url  fandango.com
+exception for fandango.com : timed out
+url  tinyurl.com
+	 connected
+8076
+url: tinyurl.com, expires in : 939
+url  4pda.ru
+	 connected
+5056
+url: 4pda.ru, expires in : 337
+url  google.hr
+	 connected
+1003
+url: google.hr, expires in : 80
+url  facenama.com
+	 connected
+1651
+url: facenama.com, expires in : 52
+url  deviantart.net
+	 connected
+4718
+url: deviantart.net, expires in : 810
+url  harvard.edu
+exception for harvard.edu : timed out
+url  hardsextube.com
+	 connected
+ssl error for hardsextube.com [('SSL routines', 'SSL3_READ_BYTES', 'sslv3 alert handshake failure')]
+url  hdzog.com
+exception for hdzog.com : [Errno 61] Connection refused
+url  mediaset.it
+exception for mediaset.it : timed out
+url  mynavi.jp
+	 connected
+2178
+url: mynavi.jp, expires in : 24
+url  126.com
+exception for 126.com : [Errno 61] Connection refused
+url  mystartsearch.com
+exception for mystartsearch.com : [Errno 61] Connection refused
+url  bt.com

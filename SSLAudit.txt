@@ -1,0 +1,1460 @@
+google.com,80
+Yet to complete : 950
+youtube.com,80
+Yet to complete : 950
+google.co.in,80
+Yet to complete : 948
+Yet to complete : 947
+wikipedia.org,455
+Yet to complete : 946
+amazon.com,405
+Yet to complete : 945
+yahoo.com,709
+Yet to complete : 944
+facebook.com,39
+Yet to complete : 943
+twitter.com,170
+Yet to complete : 942
+linkedin.com,404
+Yet to complete : 941
+baidu.com,147
+Yet to complete : 940
+bing.com,703
+Yet to complete : 939
+google.co.jp,80
+Yet to complete : 938
+ebay.com,672
+Yet to complete : 937
+taobao.com,203
+Yet to complete : 936
+vk.com,1029
+Yet to complete : 935
+yandex.ru,39
+Yet to complete : 934
+weibo.com,627
+Yet to complete : 933
+google.de,80
+Yet to complete : 932
+google.co.uk,80
+Yet to complete : 931
+instagram.com,39
+Yet to complete : 930
+pinterest.com,353
+Yet to complete : 929
+msn.com,573
+Yet to complete : 928
+t.co,197
+Yet to complete : 927
+amazon.co.jp,404
+Yet to complete : 926
+reddit.com,1003
+Yet to complete : 925
+google.fr,80
+Yet to complete : 924
+qq.com,398
+Yet to complete : 923
+google.ru,80
+Yet to complete : 922
+wordpress.com,610
+Yet to complete : 921
+blogspot.com,80
+Yet to complete : 920
+Yet to complete : 919
+google.com.br,80
+Yet to complete : 918
+google.it,80
+Yet to complete : 917
+microsoft.com,584
+Yet to complete : 916
+google.es,80
+Yet to complete : 915
+Yet to complete : 914
+apple.com,357
+Yet to complete : 913
+Yet to complete : 912
+imgur.com,39
+Yet to complete : 911
+paypal.com,390
+Yet to complete : 910
+tumblr.com,140
+Yet to complete : 909
+netflix.com,508
+Yet to complete : 908
+tmall.com,34
+Yet to complete : 907
+mail.ru,264
+Yet to complete : 906
+onclickads.net,261
+Yet to complete : 905
+stackoverflow.com,338
+Yet to complete : 904
+amazon.de,404
+Yet to complete : 903
+go.com,335
+Yet to complete : 902
+google.ca,80
+Yet to complete : 901
+google.com.mx,80
+Yet to complete : 900
+google.com.hk,80
+Yet to complete : 899
+sohu.com,65
+Yet to complete : 898
+diply.com,210
+Yet to complete : 897
+blogger.com,80
+Yet to complete : 896
+pornhub.com,134
+Yet to complete : 895
+google.com.tr,80
+Yet to complete : 894
+amazon.co.uk,404
+Yet to complete : 893
+Yet to complete : 892
+amazon.in,405
+Yet to complete : 891
+Yet to complete : 890
+ok.ru,852
+Yet to complete : 889
+craigslist.org,1052
+Yet to complete : 888
+outbrain.com,393
+Yet to complete : 887
+Yet to complete : 886
+espn.go.com,184
+Yet to complete : 885
+Yet to complete : 884
+google.co.id,80
+Yet to complete : 883
+google.co.kr,80
+Yet to complete : 882
+adnetworkperformance.com,222
+Yet to complete : 881
+xhamster.com,247
+Yet to complete : 880
+bongacams.com,175
+Yet to complete : 879
+popads.net,1439
+Yet to complete : 878
+dropbox.com,786
+Yet to complete : 877
+github.com,142
+Yet to complete : 876
+Yet to complete : 875
+Yet to complete : 874
+bbc.co.uk,301
+Yet to complete : 873
+Yet to complete : 872
+google.pl,80
+Yet to complete : 871
+google.com.au,80
+Yet to complete : 870
+flipkart.com,743
+Yet to complete : 869
+ebay.co.uk,672
+Yet to complete : 868
+nytimes.com,911
+Yet to complete : 867
+terraclicks.com,152
+Yet to complete : 866
+ebay.de,672
+Yet to complete : 865
+Yet to complete : 864
+Yet to complete : 863
+Yet to complete : 862
+adobe.com,684
+Yet to complete : 861
+bbc.com,301
+Yet to complete : 860
+kat.cr,154
+Yet to complete : 859
+tradeadexchange.com,588
+Yet to complete : 858
+google.com.tw,80
+Yet to complete : 857
+Yet to complete : 856
+wikia.com,67
+Yet to complete : 855
+office.com,347
+Yet to complete : 854
+Yet to complete : 853
+dailymotion.com,1049
+Yet to complete : 852
+Yet to complete : 851
+Yet to complete : 850
+google.com.eg,80
+Yet to complete : 849
+Yet to complete : 848
+booking.com,129
+Yet to complete : 847
+chase.com,270
+Yet to complete : 846
+Yet to complete : 845
+google.com.sa,80
+Yet to complete : 844
+sogou.com,217
+Yet to complete : 843
+Yet to complete : 842
+walmart.com,565
+Yet to complete : 841
+Yet to complete : 840
+Yet to complete : 839
+163.com,770
+Yet to complete : 838
+coccoc.com,488
+Yet to complete : 837
+Yet to complete : 836
+Yet to complete : 836
+Yet to complete : 834
+Yet to complete : 833
+Yet to complete : 832
+Yet to complete : 831
+Yet to complete : 830
+Yet to complete : 830
+Yet to complete : 828
+Yet to complete : 827
+Yet to complete : 826
+google.com.ar,80
+Yet to complete : 825
+Yet to complete : 824
+slideshare.net,535
+Yet to complete : 823
+google.com.pk,80
+Yet to complete : 822
+etsy.com,411
+Yet to complete : 821
+whatsapp.com,257
+Yet to complete : 820
+blogspot.in,80
+Yet to complete : 819
+stackexchange.com,338
+Yet to complete : 818
+adcash.com,385
+Yet to complete : 817
+amazon.fr,405
+Yet to complete : 816
+twitch.tv,843
+Yet to complete : 815
+Yet to complete : 815
+Yet to complete : 813
+bankofamerica.com,299
+Yet to complete : 812
+Yet to complete : 811
+Yet to complete : 810
+yelp.com,798
+Yet to complete : 809
+detail.tmall.com,34
+Yet to complete : 808
+Yet to complete : 807
+target.com,210
+Yet to complete : 806
+reimageplus.com,882
+Yet to complete : 805
+indeed.com,509
+Yet to complete : 804
+quora.com,635
+Yet to complete : 803
+flickr.com,645
+Yet to complete : 802
+forbes.com,428
+Yet to complete : 801
+Yet to complete : 800
+redtube.com,695
+Yet to complete : 799
+amazon.it,405
+Yet to complete : 798
+google.nl,80
+Yet to complete : 797
+vice.com,1005
+Yet to complete : 796
+Yet to complete : 795
+Yet to complete : 794
+Yet to complete : 793
+Yet to complete : 792
+Yet to complete : 791
+soundcloud.com,138
+Yet to complete : 790
+bestbuy.com,210
+Yet to complete : 789
+Yet to complete : 788
+adf.ly,139
+google.co.ve,80
+Yet to complete : 787
+Yet to complete : 787
+google.co.za,80
+Yet to complete : 785
+google.gr,80
+Yet to complete : 784
+Yet to complete : 783
+wellsfargo.com,709
+Yet to complete : 782
+zillow.com,354
+Yet to complete : 781
+godaddy.com,133
+Yet to complete : 780
+adplxmd.com,506
+Yet to complete : 779
+vimeo.com,444
+Yet to complete : 778
+loading-delivery2.com,278
+Yet to complete : 777
+popcash.net,337
+Yet to complete : 776
+foxnews.com,210
+Yet to complete : 775
+ettoday.net,890
+Yet to complete : 774
+leboncoin.fr,216
+Yet to complete : 773
+Yet to complete : 772
+about.com,923
+Yet to complete : 771
+google.com.ua,80
+Yet to complete : 770
+youporn.com,228
+Yet to complete : 769
+avito.ru,67
+Yet to complete : 768
+douban.com,603
+Yet to complete : 767
+washingtonpost.com,575
+Yet to complete : 766
+theladbible.com,1051
+Yet to complete : 765
+Yet to complete : 764
+naver.jp,254
+Yet to complete : 763
+mozilla.org,15
+Yet to complete : 762
+Yet to complete : 761
+salesforce.com,1006
+Yet to complete : 760
+nih.gov,278
+Yet to complete : 759
+doublepimp.com,149
+Yet to complete : 758
+Yet to complete : 757
+Yet to complete : 756
+Yet to complete : 755
+livejournal.com,159
+Yet to complete : 754
+Yet to complete : 753
+files.wordpress.com,93
+Yet to complete : 752
+tripadvisor.com,341
+Yet to complete : 751
+hclips.com,337
+Yet to complete : 750
+deviantart.com,810
+Yet to complete : 749
+gfycat.com,337
+Yet to complete : 748
+feedly.com,144
+Yet to complete : 747
+themeforest.net,232
+Yet to complete : 746
+tubecup.com,337
+Yet to complete : 745
+google.com.co,80
+Yet to complete : 744
+americanexpress.com,165
+Yet to complete : 743
+9gag.com,112
+Yet to complete : 742
+nametests.com,337
+Yet to complete : 741
+businessinsider.com,1016
+Yet to complete : 740
+mediafire.com,112
+Yet to complete : 739
+steamcommunity.com,39
+Yet to complete : 738
+taboola.com,190
+Yet to complete : 737
+wordpress.org,754
+Yet to complete : 736
+shutterstock.com,199
+Yet to complete : 735
+Yet to complete : 734
+telegraph.co.uk,210
+Yet to complete : 733
+detik.com,406
+Yet to complete : 732
+secureserver.net,642
+Yet to complete : 731
+wix.com,988
+Yet to complete : 730
+mystart.com,667
+Yet to complete : 729
+amazon.es,405
+Yet to complete : 728
+Yet to complete : 727
+onet.pl,43
+Yet to complete : 726
+usps.com,244
+Yet to complete : 725
+office365.com,488
+Yet to complete : 724
+pixiv.net,173
+Yet to complete : 723
+groupon.com,322
+Yet to complete : 723
+flirchi.com,687
+Yet to complete : 721
+ups.com,479
+Yet to complete : 720
+Yet to complete : 719
+google.ro,80
+Yet to complete : 718
+archive.org,458
+Yet to complete : 717
+google.se,80
+Yet to complete : 716
+google.com.sg,80
+Yet to complete : 715
+google.com.ng,80
+steampowered.com,39
+Yet to complete : 714
+Yet to complete : 713
+Yet to complete : 712
+Yet to complete : 711
+wikimedia.org,455
+Yet to complete : 710
+Yet to complete : 709
+Yet to complete : 708
+nfl.com,245
+Yet to complete : 707
+Yet to complete : 706
+weebly.com,306
+Yet to complete : 705
+Yet to complete : 704
+web.de,510
+Yet to complete : 703
+rambler.ru,28
+Yet to complete : 702
+Yet to complete : 701
+Yet to complete : 700
+Yet to complete : 699
+Yet to complete : 698
+Yet to complete : 697
+Yet to complete : 696
+Yet to complete : 695
+bilibili.com,304
+Yet to complete : 694
+github.io,101
+Yet to complete : 693
+google.com.ph,80
+Yet to complete : 692
+google.be,80
+Yet to complete : 691
+Yet to complete : 690
+Yet to complete : 689
+addthis.com,738
+Yet to complete : 688
+Yet to complete : 687
+hdfcbank.com,337
+Yet to complete : 686
+smzdm.com,264
+Yet to complete : 685
+mailchimp.com,999
+Yet to complete : 684
+google.at,80
+Yet to complete : 683
+Yet to complete : 682
+hulu.com,210
+Yet to complete : 681
+youm7.com,337
+Yet to complete : 680
+media.tumblr.com,280
+Yet to complete : 679
+Yet to complete : 678
+ebay-kleinanzeigen.de,558
+Yet to complete : 677
+gmx.net,180
+Yet to complete : 676
+Yet to complete : 675
+sourceforge.net,11
+Yet to complete : 674
+Yet to complete : 673
+fedex.com,327
+Yet to complete : 672
+gamer.com.tw,325
+Yet to complete : 671
+Yet to complete : 670
+Yet to complete : 669
+Yet to complete : 668
+goodreads.com,325
+Yet to complete : 667
+uptodown.com,210
+Yet to complete : 666
+abs-cbnnews.com,337
+Yet to complete : 665
+xfinity.com,623
+Yet to complete : 664
+Yet to complete : 663
+paytm.com,644
+Yet to complete : 662
+xuite.net,986
+Yet to complete : 661
+Yet to complete : 660
+ebay.in,672
+Yet to complete : 659
+Yet to complete : 658
+google.pt,80
+Yet to complete : 657
+Yet to complete : 656
+hp.com,218
+Yet to complete : 655
+Yet to complete : 654
+amazon.ca,405
+Yet to complete : 653
+Yet to complete : 652
+babytree.com,168
+Yet to complete : 651
+google.com.pe,80
+Yet to complete : 650
+Yet to complete : 649
+google.ae,80
+Yet to complete : 648
+hootsuite.com,1015
+Yet to complete : 647
+pandora.com,1123
+Yet to complete : 646
+extratorrent.cc,337
+Yet to complete : 645
+spiegel.de,1049
+Yet to complete : 644
+stumbleupon.com,20
+Yet to complete : 643
+capitalone.com,377
+Yet to complete : 642
+bloomberg.com,445
+Yet to complete : 641
+t-online.de,264
+Yet to complete : 640
+answers.com,1011
+Yet to complete : 639
+blog.jp,159
+Yet to complete : 638
+bet365.com,954
+Yet to complete : 637
+fbcdn.net,39
+Yet to complete : 636
+macys.com,210
+Yet to complete : 635
+Yet to complete : 634
+seznam.cz,31
+Yet to complete : 633
+Yet to complete : 632
+spotify.com,577
+Yet to complete : 631
+putlocker.is,337
+Yet to complete : 630
+gameforge.com,688
+Yet to complete : 629
+1688.com,203
+Yet to complete : 628
+jabong.com,364
+Yet to complete : 627
+mashable.com,210
+Yet to complete : 626
+wsj.com,222
+Yet to complete : 625
+Yet to complete : 624
+kohls.com,123
+Yet to complete : 623
+google.ch,80
+Yet to complete : 622
+kaskus.co.id,711
+Yet to complete : 621
+gmail.com,80
+Yet to complete : 620
+2ch.net,337
+Yet to complete : 619
+Yet to complete : 618
+badoo.com,58
+Yet to complete : 617
+Yet to complete : 616
+Yet to complete : 615
+slickdeals.net,157
+Yet to complete : 614
+att.com,576
+Yet to complete : 613
+liputan6.com,351
+Yet to complete : 612
+rediff.com,210
+Yet to complete : 611
+Yet to complete : 610
+trello.com,640
+Yet to complete : 609
+zendesk.com,1373
+Yet to complete : 608
+mega.nz,319
+Yet to complete : 607
+plarium.com,475
+Yet to complete : 606
+Yet to complete : 605
+Yet to complete : 604
+google.cl,80
+Yet to complete : 603
+onlinesbi.com,83
+Yet to complete : 602
+google.az,80
+Yet to complete : 601
+newegg.com,210
+Yet to complete : 600
+icloud.com,212
+Yet to complete : 599
+chaturbate.com,1201
+Yet to complete : 598
+google.cz,80
+Yet to complete : 597
+Yet to complete : 596
+haosou.com,24
+Yet to complete : 595
+tistory.com,611
+Yet to complete : 594
+Yet to complete : 593
+Yet to complete : 592
+Yet to complete : 591
+Yet to complete : 590
+Yet to complete : 589
+Yet to complete : 588
+Yet to complete : 587
+Yet to complete : 586
+Yet to complete : 585
+Yet to complete : 584
+life.com.tw,337
+Yet to complete : 583
+Yet to complete : 582
+battle.net,282
+Yet to complete : 581
+verizonwireless.com,205
+Yet to complete : 580
+Yet to complete : 579
+kickstarter.com,505
+Yet to complete : 578
+all2lnk.com,391
+Yet to complete : 577
+chaoshi.tmall.com,359
+Yet to complete : 576
+Yet to complete : 575
+Yet to complete : 574
+google.com.bd,80
+Yet to complete : 573
+ero-advertising.com,1223
+Yet to complete : 572
+evernote.com,996
+Yet to complete : 571
+ebay.it,672
+Yet to complete : 570
+eksisozluk.com,153
+Yet to complete : 569
+Yet to complete : 568
+adidas.tmall.com,359
+Yet to complete : 567
+liveinternet.ru,403
+Yet to complete : 566
+upornia.com,315
+Yet to complete : 565
+vid.me,225
+Yet to complete : 564
+oracle.com,59
+Yet to complete : 563
+iqiyi.com,725
+Yet to complete : 562
+google.hu,80
+Yet to complete : 561
+cnnic.cn,588
+Yet to complete : 560
+Yet to complete : 559
+bleacherreport.com,883
+Yet to complete : 558
+google.co.il,80
+Yet to complete : 557
+watsons.tmall.com,359
+Yet to complete : 556
+google.co.th,80
+Yet to complete : 555
+Yet to complete : 554
+infusionsoft.com,654
+Yet to complete : 553
+slack.com,455
+Yet to complete : 552
+Yet to complete : 551
+rt.com,96
+Yet to complete : 550
+list.tmall.com,359
+Yet to complete : 549
+Yet to complete : 548
+Yet to complete : 547
+Yet to complete : 546
+Yet to complete : 545
+Yet to complete : 545
+Yet to complete : 543
+Yet to complete : 543
+Yet to complete : 541
+Yet to complete : 540
+scribd.com,136
+Yet to complete : 539
+ijreview.com,337
+Yet to complete : 538
+likes.com,337
+Yet to complete : 537
+torrentz.eu,173
+Yet to complete : 536
+ebay.com.au,672
+Yet to complete : 535
+thefreedictionary.com,1044
+Yet to complete : 534
+onedio.com,206
+Yet to complete : 533
+ppomppu.co.kr,336
+Yet to complete : 532
+exoclick.com,315
+Yet to complete : 531
+pinimg.com,353
+Yet to complete : 530
+ask.fm,948
+Yet to complete : 529
+Yet to complete : 528
+Yet to complete : 527
+nba.com,126
+Yet to complete : 526
+yandex.ua,39
+Yet to complete : 525
+list-manage.com,889
+Yet to complete : 524
+citi.com,435
+Yet to complete : 523
+Yet to complete : 522
+taleo.net,386
+Yet to complete : 521
+Yet to complete : 520
+google.ie,80
+Yet to complete : 519
+Yet to complete : 518
+kinogo.co,337
+Yet to complete : 517
+hurriyet.com.tr,625
+Yet to complete : 516
+surveymonkey.com,633
+Yet to complete : 515
+Yet to complete : 514
+Yet to complete : 513
+shopclues.com,925
+Yet to complete : 512
+Yet to complete : 511
+google.dz,80
+Yet to complete : 510
+4shared.com,602
+Yet to complete : 509
+gizmodo.com,807
+Yet to complete : 508
+Yet to complete : 507
+lifehacker.com,1016
+Yet to complete : 506
+youradexchange.com,192
+Yet to complete : 505
+uploaded.net,304
+Yet to complete : 504
+torrentz.in,173
+Yet to complete : 503
+quikr.com,210
+Yet to complete : 502
+goal.com,1095
+Yet to complete : 501
+Yet to complete : 500
+meetup.com,278
+Yet to complete : 499
+fiverr.com,323
+Yet to complete : 498
+techcrunch.com,1057
+Yet to complete : 497
+teepr.com,337
+Yet to complete : 496
+google.fi,80
+Yet to complete : 495
+lowes.com,896
+Yet to complete : 494
+kinopoisk.ru,34
+Yet to complete : 493
+savefrom.net,883
+Yet to complete : 492
+ameba.jp,344
+allrecipes.com,24
+Yet to complete : 491
+Yet to complete : 490
+Yet to complete : 489
+Yet to complete : 488
+Yet to complete : 487
+time.com,698
+Yet to complete : 486
+Yet to complete : 485
+disqus.com,869
+Yet to complete : 484
+java.com,111
+Yet to complete : 483
+olx.in,1000
+Yet to complete : 482
+free.fr,624
+Yet to complete : 481
+xe.com,561
+Yet to complete : 480
+irctc.co.in,24
+Yet to complete : 479
+Yet to complete : 478
+nbcnews.com,597
+Yet to complete : 477
+Yet to complete : 476
+onclicktop.com,221
+Yet to complete : 475
+neobux.com,506
+Yet to complete : 474
+lemonde.fr,53
+Yet to complete : 473
+Yet to complete : 472
+souq.com,497
+Yet to complete : 471
+Yet to complete : 470
+Yet to complete : 469
+xda-developers.com,358
+Yet to complete : 468
+gmarket.co.kr,146
+Yet to complete : 467
+zippyshare.com,1076
+Yet to complete : 466
+mobile.de,386
+Yet to complete : 465
+Yet to complete : 464
+ewt.cc,203
+Yet to complete : 463
+Yet to complete : 462
+Yet to complete : 462
+Yet to complete : 460
+Yet to complete : 459
+Yet to complete : 458
+Yet to complete : 457
+Yet to complete : 456
+Yet to complete : 455
+urdupoint.com,316
+Yet to complete : 454
+medium.com,635
+Yet to complete : 453
+gamefaqs.com,493
+Yet to complete : 452
+subscene.com,315
+Yet to complete : 451
+shopify.com,859
+Yet to complete : 450
+wunderground.com,1393
+Yet to complete : 449
+google.sk,80
+Yet to complete : 448
+rdsa2012.com,279
+Yet to complete : 447
+intuit.com,355
+Yet to complete : 446
+Yet to complete : 445
+lenovo.com,471
+Yet to complete : 444
+Yet to complete : 443
+Yet to complete : 442
+Yet to complete : 441
+1111.tmall.com,34
+Yet to complete : 440
+siteadvisor.com,635
+Yet to complete : 439
+playstation.com,5
+Yet to complete : 438
+bestadbid.com,289
+Yet to complete : 437
+hatena.ne.jp,387
+Yet to complete : 436
+Yet to complete : 435
+Yet to complete : 434
+Yet to complete : 433
+Yet to complete : 432
+Yet to complete : 431
+Yet to complete : 430
+Yet to complete : 429
+Yet to complete : 428
+Yet to complete : 427
+Yet to complete : 426
+ancestry.com,796
+Yet to complete : 425
+doubleclick.net,80
+Yet to complete : 424
+mercadolibre.com.ar,132
+Yet to complete : 423
+blackboard.com,276
+Yet to complete : 422
+11st.co.kr,112
+Yet to complete : 421
+mercadolibre.com.ve,200
+Yet to complete : 420
+youboy.com,116
+Yet to complete : 419
+google.com.vn,80
+Yet to complete : 418
+sh.st,301
+Yet to complete : 417
+Yet to complete : 416
+Yet to complete : 415
+google.dk,80
+Yet to complete : 414
+megapopads.com,236
+Yet to complete : 413
+nike.com,245
+Yet to complete : 412
+Yet to complete : 411
+box.com,701
+Yet to complete : 410
+zulily.com,319
+Yet to complete : 409
+beeg.com,786
+Yet to complete : 408
+goodgamestudios.com,918
+Yet to complete : 407
+lefigaro.fr,86
+Yet to complete : 406
+nifty.com,86
+Yet to complete : 405
+Yet to complete : 404
+Yet to complete : 403
+Yet to complete : 402
+instructables.com,570
+Yet to complete : 401
+npr.org,562
+Yet to complete : 400
+issuu.com,380
+Yet to complete : 399
+lazada.co.id,1248
+Yet to complete : 398
+Yet to complete : 397
+blogspot.jp,80
+Yet to complete : 396
+realtor.com,511
+Yet to complete : 395
+Yet to complete : 394
+kijiji.ca,364
+Yet to complete : 393
+Yet to complete : 392
+discovercard.com,457
+Yet to complete : 391
+glassdoor.com,825
+Yet to complete : 390
+Yet to complete : 389
+Yet to complete : 388
+sabq.org,334
+Yet to complete : 387
+airbnb.com,425
+Yet to complete : 386
+Yet to complete : 385
+subito.it,204
+Yet to complete : 384
+timeanddate.com,309
+Yet to complete : 383
+seesaa.net,304
+Yet to complete : 382
+Yet to complete : 381
+bukalapak.com,136
+Yet to complete : 380
+verizon.com,932
+Yet to complete : 379
+Yet to complete : 378
+Yet to complete : 377
+clien.net,48
+Yet to complete : 376
+Yet to complete : 375
+kooora.com,510
+Yet to complete : 374
+codecanyon.net,232
+Yet to complete : 373
+xunlei.com,67
+Yet to complete : 372
+overstock.com,350
+Yet to complete : 371
+ebay.fr,672
+Yet to complete : 370
+cityadspix.com,320
+Yet to complete : 369
+fidelity.com,711
+Yet to complete : 368
+olx.pl,188
+Yet to complete : 367
+focus.de,123
+Yet to complete : 366
+taringa.net,325
+Yet to complete : 365
+wetransfer.com,569
+Yet to complete : 364
+Yet to complete : 363
+bhaskar.com,210
+Yet to complete : 362
+freepik.com,848
+Yet to complete : 361
+popped.biz,332
+Yet to complete : 360
+instructure.com,187
+Yet to complete : 359
+sears.com,210
+Yet to complete : 358
+Yet to complete : 357
+kayak.com,869
+Yet to complete : 356
+Yet to complete : 355
+squarespace.com,568
+Yet to complete : 354
+tmz.com,271
+Yet to complete : 353
+youdao.com,1028
+Yet to complete : 352
+duckduckgo.com,213
+Yet to complete : 351
+Yet to complete : 350
+rottentomatoes.com,250
+Yet to complete : 349
+moneycontrol.com,335
+Yet to complete : 348
+Yet to complete : 347
+hespress.com,337
+Yet to complete : 346
+udemy.com,337
+Yet to complete : 345
+so-net.ne.jp,39
+Yet to complete : 344
+foodnetwork.com,307
+Yet to complete : 343
+google.com.my,80
+Yet to complete : 342
+okcupid.com,138
+Yet to complete : 341
+asana.com,820
+Yet to complete : 340
+Yet to complete : 339
+yodobashi.com,178
+Yet to complete : 338
+clickadu.com,45
+Yet to complete : 337
+Yet to complete : 336
+wayfair.com,973
+Yet to complete : 335
+yandex.com.tr,39
+Yet to complete : 334
+Yet to complete : 333
+Yet to complete : 332
+woot.com,178
+Yet to complete : 331
+Yet to complete : 330
+Yet to complete : 329
+change.org,334
+goo.gl,80
+Yet to complete : 328
+Yet to complete : 328
+r10.net,337
+Yet to complete : 326
+researchgate.net,300
+Yet to complete : 325
+Yet to complete : 324
+constantcontact.com,792
+Yet to complete : 323
+cookpad.com,345
+Yet to complete : 322
+zomato.com,301
+Yet to complete : 321
+Yet to complete : 320
+Yet to complete : 319
+airtel.in,201
+Yet to complete : 318
+abcnews.go.com,98
+Yet to complete : 317
+Yet to complete : 316
+southwest.com,718
+Yet to complete : 315
+microsoftstore.com,503
+Yet to complete : 314
+php.net,194
+Yet to complete : 313
+interia.pl,759
+Yet to complete : 312
+bhphotovideo.com,569
+Yet to complete : 311
+cnbc.com,11
+Yet to complete : 310
+Yet to complete : 309
+shareasale.com,968
+Yet to complete : 308
+Yet to complete : 307
+asus.com,584
+Yet to complete : 306
+Yet to complete : 305
+Yet to complete : 304
+Yet to complete : 303
+pof.com,143
+Yet to complete : 302
+mixi.jp,8
+Yet to complete : 301
+superuser.com,337
+Yet to complete : 300
+statcounter.com,57
+Yet to complete : 299
+academia.edu,686
+Yet to complete : 298
+agoda.com,736
+Yet to complete : 297
+trulia.com,695
+Yet to complete : 296
+tokopedia.com,277
+Yet to complete : 295
+Yet to complete : 294
+momoshop.com.tw,472
+Yet to complete : 293
+cdiscount.com,306
+Yet to complete : 292
+askmebazaar.com,571
+Yet to complete : 291
+makemytrip.com,407
+Yet to complete : 290
+billdesk.com,533
+Yet to complete : 289
+Yet to complete : 288
+bomb01.com,337
+Yet to complete : 287
+Yet to complete : 286
+Yet to complete : 285
+staples.com,109
+Yet to complete : 284
+domaintools.com,163
+Yet to complete : 283
+Yet to complete : 282
+swagbucks.com,613
+Yet to complete : 281
+fanli.com,292
+Yet to complete : 280
+ensonhaber.com,161
+Yet to complete : 279
+Yet to complete : 278
+wonderlandads.com,224
+Yet to complete : 277
+Yet to complete : 276
+Yet to complete : 275
+Yet to complete : 274
+Yet to complete : 273
+Yet to complete : 272
+Yet to complete : 271
+Yet to complete : 270
+custhelp.com,222
+Yet to complete : 269
+Yet to complete : 268
+Yet to complete : 267
+jcpenney.com,409
+Yet to complete : 266
+pch.com,1112
+Yet to complete : 265
+zoho.com,463
+Yet to complete : 264
+Yet to complete : 263
+Yet to complete : 262
+Yet to complete : 261
+Yet to complete : 260
+Yet to complete : 259
+Yet to complete : 258
+Yet to complete : 257
+giphy.com,111
+Yet to complete : 256
+Yet to complete : 255
+buy.tmall.com,34
+Yet to complete : 254
+Yet to complete : 253
+Yet to complete : 252
+ero-video.net,556
+Yet to complete : 251
+upwork.com,487
+Yet to complete : 250
+hostgator.com,1059
+Yet to complete : 249
+eventbrite.com,45
+Yet to complete : 248
+aweber.com,347
+Yet to complete : 247
+appledaily.com.tw,210
+Yet to complete : 246
+nypost.com,1057
+Yet to complete : 245
+youjizz.com,73
+Yet to complete : 244
+bitly.com,1013
+Yet to complete : 243
+patch.com,920
+Yet to complete : 242
+twoo.com,255
+Yet to complete : 241
+videodownloadconverter.com,504
+Yet to complete : 240
+googleadservices.com,80
+Yet to complete : 239
+sciencedirect.com,463
+Yet to complete : 238
+cbc.ca,210
+Yet to complete : 237
+Yet to complete : 236
+yandex.kz,39
+Yet to complete : 235
+mercadolibre.com.mx,132
+Yet to complete : 234
+Yet to complete : 233
+Yet to complete : 232
+gamespot.com,843
+Yet to complete : 231
+houzz.com,315
+Yet to complete : 230
+theatlantic.com,323
+Yet to complete : 229
+Yet to complete : 228
+Yet to complete : 227
+norton.com,224
+Yet to complete : 226
+Yet to complete : 225
+Yet to complete : 224
+Yet to complete : 223
+olx.ua,389
+Yet to complete : 222
+Yet to complete : 221
+Yet to complete : 220
+netshoes.com.br,71
+Yet to complete : 219
+Yet to complete : 218
+howtogeek.com,339
+Yet to complete : 217
+toysrus.com,921
+Yet to complete : 216
+Yet to complete : 215
+tnaflix.com,376
+Yet to complete : 214
+Yet to complete : 213
+Yet to complete : 212
+Yet to complete : 211
+semrush.com,191
+Yet to complete : 210
+Yet to complete : 209
+weblio.jp,980
+Yet to complete : 208
+Yet to complete : 207
+behance.net,800
+faithtap.com,337
+Yet to complete : 206
+Yet to complete : 206
+prpops.com,87
+Yet to complete : 204
+gemius.pl,718
+Yet to complete : 203
+Yet to complete : 202
+adp.com,487
+Yet to complete : 201
+messenger.com,39
+Yet to complete : 200
+aa.com,722
+Yet to complete : 199
+zara.com,339
+Yet to complete : 198
+ibm.com,1103
+Yet to complete : 197
+popsugar.com,94
+Yet to complete : 196
+Yet to complete : 195
+Yet to complete : 194
+exblog.jp,346
+Yet to complete : 193
+Yet to complete : 192
+leagueoflegends.com,1109
+Yet to complete : 191
+clixsense.com,610
+Yet to complete : 190
+Yet to complete : 189
+Yet to complete : 188
+jumia.com.ng,5
+Yet to complete : 187
+wp.com,1057
+Yet to complete : 186
+cam4.com,269
+Yet to complete : 185
+google.no,80
+Yet to complete : 184
+cbs.com,1065
+Yet to complete : 183
+slimspots.com,87
+Yet to complete : 182
+mackeeper.com,288
+Yet to complete : 181
+marketwatch.com,349
+Yet to complete : 180
+mit.edu,121
+Yet to complete : 179
+saramin.co.kr,97
+Yet to complete : 178
+voc.com.cn,1001
+Yet to complete : 177
+Yet to complete : 176
+Yet to complete : 175
+Yet to complete : 174
+mayoclinic.org,834
+Yet to complete : 173
+rapidgator.net,801
+Yet to complete : 172
+Yet to complete : 171
+Yet to complete : 170
+europa.eu,880
+Yet to complete : 169
+Yet to complete : 168
+Yet to complete : 167
+bodybuilding.com,187
+Yet to complete : 166
+usaa.com,142
+Yet to complete : 165
+zing.vn,1091
+Yet to complete : 164
+Yet to complete : 163
+Yet to complete : 162
+atlassian.net,724
+Yet to complete : 161
+gutefrage.net,339
+Yet to complete : 160
+Yet to complete : 159
+Yet to complete : 158
+Yet to complete : 157
+coursera.org,410
+Yet to complete : 156
+wikiwiki.jp,337
+Yet to complete : 155
+Yet to complete : 154
+wiktionary.org,455
+Yet to complete : 153
+Yet to complete : 152
+Yet to complete : 151
+pureadexchange.com,222
+Yet to complete : 150
+rightmove.co.uk,204
+Yet to complete : 149
+egou.com,980
+Yet to complete : 148
+Yet to complete : 147
+ebates.com,108
+to8to.com,167
+Yet to complete : 146
+Yet to complete : 146
+b5m.com,403
+Yet to complete : 144
+google.bg,80
+Yet to complete : 143
+Yet to complete : 142
+indianexpress.com,1057
+Yet to complete : 141
+gismeteo.ru,1394
+Yet to complete : 140
+mynet.com,737
+Yet to complete : 139
+Yet to complete : 138
+Yet to complete : 137
+myfitnesspal.com,509
+Yet to complete : 136
+nydailynews.com,1016
+Yet to complete : 135
+backpage.com,53
+Yet to complete : 134
+thesportbible.com,337
+Yet to complete : 133
+google.co.nz,80
+Yet to complete : 132
+Yet to complete : 131
+Yet to complete : 130
+Yet to complete : 129
+blogspot.gr,80
+Yet to complete : 128
+altervista.org,687
+Yet to complete : 127
+trklnks.com,192
+Yet to complete : 126
+Yet to complete : 125
+milanuncios.com,164
+Yet to complete : 124
+Yet to complete : 123
+Yet to complete : 122
+Yet to complete : 121
+Yet to complete : 121
+shareba.com,337
+Yet to complete : 119
+Yet to complete : 118
+informer.com,199
+Yet to complete : 117
+Yet to complete : 116
+gyazo.com,533
+Yet to complete : 115
+sephora.com,1010
+Yet to complete : 114
+Yet to complete : 113
+Yet to complete : 112
+Yet to complete : 111
+cisco.com,302
+Yet to complete : 110
+disq.us,1016
+Yet to complete : 109
+Yet to complete : 108
+techradar.com,432
+Yet to complete : 107
+lapatilla.com,103
+Yet to complete : 106
+Yet to complete : 105
+Yet to complete : 104
+hubspot.com,479
+Yet to complete : 103
+primewire.ag,337
+Yet to complete : 102
+www.gov.uk,381
+Yet to complete : 101
+tsite.jp,39
+Yet to complete : 100
+Yet to complete : 99
+blogspot.com.tr,80
+Yet to complete : 98
+olx.com.br,59
+Yet to complete : 97
+Yet to complete : 96
+Yet to complete : 95
+Yet to complete : 94
+uniqlo.com,854
+Yet to complete : 93
+Yet to complete : 92
+t-mobile.com,249
+Yet to complete : 91
+ted.com,786
+Yet to complete : 90
+androidcentral.com,185
+Yet to complete : 89
+breitbart.com,53
+Yet to complete : 88
+almasryalyoum.com,337
+Yet to complete : 87
+infoseek.co.jp,40
+Yet to complete : 86
+usbank.com,997
+Yet to complete : 85
+clarin.com,861
+Yet to complete : 84
+ehow.com,501
+Yet to complete : 83
+yadi.sk,33
+Yet to complete : 82
+quizlet.com,44
+Yet to complete : 81
+Yet to complete : 80
+Yet to complete : 79
+Yet to complete : 78
+lifebuzz.com,337
+Yet to complete : 77
+Yet to complete : 76
+anitube.se,337
+Yet to complete : 75
+genius.com,306
+Yet to complete : 74
+dreamstime.com,116
