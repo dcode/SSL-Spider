@@ -7,9 +7,9 @@ from datetime import datetime
 from OpenSSL import SSL
 import socket
 
-from ssl import wrap_socket, CERT_NONE, PROTOCOL_SSLv23
-from ssl import SSLContext  # Modern SSL?
-from ssl import HAS_SNI  # Has SNI?
+#from ssl import wrap_socket, CERT_NONE, PROTOCOL_SSLv23
+#from ssl import SSLContext  # Modern SSL?
+#from ssl import HAS_SNI  # Has SNI?
 
 
 CA_CERTS = "/etc/hg-dummy-cert.pem"
