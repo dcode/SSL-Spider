@@ -17,8 +17,10 @@ OUTPUT_FILE = "SSLAudit.txt"
 ERROR_FILE = "SSLAudit_Error.txt"
 THREAD_COUNT = 50
 DEFAULTSSLPORT = 443
-output_file_handle = sys.stdout#open(OUTPUT_FILE, 'w')
+
+output_file_handle = sys.stdout
 error_file_handle = sys.stderr#open(ERROR_FILE, 'w')
+output_string = ""
 
 exitFlag = 0
 
@@ -37,7 +39,7 @@ def pyopenssl_check_expiration(asn1):
         print 'Certificate date format unknown.'
 
     expire_in = expire_date - datetime.now()
-    return expire_in.days
+    return expire_in.days, expire_date
 
 # Reads the given url csv file and loads into a 
 def readURLs(file):
@@ -67,11 +69,12 @@ def process_data(threadID, q):
             data = q.get()
             queueLock.release()
             processURL(data)
-            print "Yet to complete : %d" % q.qsize()
+            #print "Yet to complete : %d" % q.qsize()
         else:
             queueLock.release()
 
 def processURL(url):
+    global output_string
     # Connect to the host and get the certificate
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     sock.settimeout(3)
@@ -97,7 +100,8 @@ def processURL(url):
         x509name = x509.get_subject()
         #with open("cert/"+url+".cert", "wb") as file:
         #    file.write( str(pyopenssl_check_expiration(x509.get_notAfter())) )
-        output_file_handle.write("%s,%s, %s\n" % (url, pyopenssl_check_expiration(x509.get_notAfter()), x509name.get_components()))
+        days, date = pyopenssl_check_expiration(x509.get_notAfter())
+        output_file_handle.write("%s,%s,%s\n" % (url, days, date) )
         #if x509name.commonName != HOST:
         #    print 'Error: Hostname does not match!'
         ssl_sock.shutdown()
@@ -122,7 +126,7 @@ for threadID in threadList:
 # Fill the queue
 queueLock.acquire()
 
-LIMIT = 100#len(urls)
+LIMIT = len(urls)
 
 i=0
 for url in urls:
