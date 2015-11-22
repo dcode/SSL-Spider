@@ -1,4 +1,4 @@
-import csv, json, commands, re, requests
+import csv, json, commands, re, requests, sys
 from collections import defaultdict
 
 API_URL = "https://api.ssllabs.com/api/v2/analyze"
@@ -21,8 +21,8 @@ def getSysLabsScore(url):
 			return data['endpoints'][0]['grade']
 	return None
 
-output_file = "outcopy.csv"
-jsonfilename = output_file.split('.')[0] + '.json'
+output_file, jsonfilename = sys.argv[1:]
+#jsonfilename = output_file.split('.')[0] + '.json'
 
 csvfile = open(output_file, 'r')
 
@@ -41,6 +41,7 @@ for each in reader:
 	#print "%s %s %s" % (row['u'], row['sha1'], row['s'])
 	output.append(row)
 	index += 1
+	# write as json for every 100 units processed
 	if index % 100 == 0:
 		a = {}
 		print "writing to file : %s" % index
@@ -48,9 +49,7 @@ for each in reader:
 		jsonfile = open(jsonfilename, 'wb')
 		json.dump(a, jsonfile)
 
-"""
 a = {}
 a['Data'] = output
 jsonfile = open(jsonfilename, 'wb')
 json.dump(a, jsonfile)
-"""

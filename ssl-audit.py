@@ -7,14 +7,10 @@ from datetime import datetime
 from OpenSSL import SSL
 import socket
 
-#from ssl import wrap_socket, CERT_NONE, PROTOCOL_SSLv23
-#from ssl import SSLContext  # Modern SSL?
-#from ssl import HAS_SNI  # Has SNI?
-
-
-CA_CERTS = "/etc/hg-dummy-cert.pem"
-OUTPUT_FILE = "SSLAudit.txt"
-ERROR_FILE = "SSLAudit_Error.txt"
+# Dumped from MAC OS X El Capitan's keychain
+CA_CERTS = "dummycert.pem"
+#OUTPUT_FILE = "SSLAudit.txt"
+#ERROR_FILE = "SSLAudit_Error.txt"
 THREAD_COUNT = 50
 DEFAULTSSLPORT = 443
 
@@ -110,7 +106,9 @@ def processURL(url):
 
     sock.close()
 
-urls = readURLs("top-1m.csv")
+input_file = sys.argv[1]
+print input_file
+urls = readURLs(input_file)
 threadList = [i for i in range(THREAD_COUNT)]
 queueLock = threading.Lock()
 workQueue = Queue.Queue(len(urls))
