@@ -1,5 +1,7 @@
-# codered
-Code Red hackathon
+# SSL Spider
+
+Developed in CodeRed 2016 Hackathon.
+
 Step 1
 --------
 python ssl-audit.py top-1m.csv 1>result.csv 2>error.txt
