@@ -6,6 +6,8 @@ from collections import defaultdict
 from datetime import datetime
 from OpenSSL import SSL
 import socket
+import sys 
+from datetime import datetime
 
 # Dumped from MAC OS X El Capitan's keychain
 CA_CERTS = "dummycert.pem"
@@ -23,7 +25,7 @@ exitFlag = 0
 def pyopenssl_check_callback(connection, x509, errnum, errdepth, ok):
     ''' callback for pyopenssl ssl check'''
     if not ok:
-        return False
+        return True
     return ok
 
 
@@ -32,7 +34,7 @@ def pyopenssl_check_expiration(asn1):
     try:
         expire_date = datetime.strptime(asn1, "%Y%m%d%H%M%SZ")
     except:
-        print 'Certificate date format unknown.'
+        print >> sys.stderr, 'Certificate date format unknown.'
 
     expire_in = expire_date - datetime.now()
     return expire_in.days, expire_date
@@ -73,7 +75,7 @@ def processURL(url):
     global output_string
     # Connect to the host and get the certificate
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    sock.settimeout(3)
+    sock.settimeout(1)
     try:
         sock.connect((url, DEFAULTSSLPORT))
     except Exception as e:
@@ -82,24 +84,33 @@ def processURL(url):
     # Use SSL and read the certificates for the given urls
     # Assumes that the SSL port is 443 across all servers
     try:
-        ctx = SSL.Context(SSL.TLSv1_METHOD)
-        ctx.set_verify(SSL.VERIFY_PEER | SSL.VERIFY_FAIL_IF_NO_PEER_CERT,
+        ctx = SSL.Context(SSL.TLSv1_2_METHOD)
+        ctx.set_verify(SSL.VERIFY_NONE | SSL.VERIFY_FAIL_IF_NO_PEER_CERT,
                        pyopenssl_check_callback)
-        ctx.load_verify_locations(CA_CERTS)
+        #ctx.load_verify_locations(CA_CERTS)
 
         ssl_sock = SSL.Connection(ctx, sock)
         ssl_sock.set_connect_state()
         ssl_sock.set_tlsext_host_name(url)
         ssl_sock.do_handshake()
 
-        x509 = ssl_sock.get_peer_certificate()
-        x509name = x509.get_subject()
-        #with open("cert/"+url+".cert", "wb") as file:
-        #    file.write( str(pyopenssl_check_expiration(x509.get_notAfter())) )
-        days, date = pyopenssl_check_expiration(x509.get_notAfter())
-        output_file_handle.write("%s,%s,%s\n" % (url, days, date) )
-        #if x509name.commonName != HOST:
-        #    print 'Error: Hostname does not match!'
+        x509_chain = ssl_sock.get_peer_cert_chain()
+        if x509_chain:
+          depth = 0
+          for item in x509_chain:
+            event = {
+              "url": url,
+              "sha256": item.digest("sha256").replace(":", ""),
+              "depth": depth,
+              "md5":  item.digest("md5").replace(":", ""),
+              "commonName": item.get_subject().commonName,
+              "notBefore": datetime.strptime(item.get_notBefore(), "%Y%m%d%H%M%SZ").isoformat() + "Z",
+              "notAfter": datetime.strptime(item.get_notAfter(), "%Y%m%d%H%M%SZ").isoformat() + "Z"
+            }
+
+            output_file_handle.write(json.dumps(event)+"\n")
+            depth += 1
+
         ssl_sock.shutdown()
     except SSL.Error as e:
         error_file_handle.write("%s,%s\n" % (url, e))
@@ -107,7 +118,7 @@ def processURL(url):
     sock.close()
 
 input_file = sys.argv[1]
-print input_file
+#print input_file
 urls = readURLs(input_file)
 threadList = [i for i in range(THREAD_COUNT)]
 queueLock = threading.Lock()
